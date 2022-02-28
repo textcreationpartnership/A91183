@@ -1,0 +1,2525 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first part of an historical collection of the ancient Parliaments of England, from the yeer of our Lord 673, till the end of King John's reign, anno 1216. Wherein is cleerly demonstrated by histories and records beyond contradiction, that the ancient parliaments, and great councels of England, during all this tract of time, and many yeers after, were constituted, and consisted onely of our kings, princes, dukes, earls, nobles, barons, spiritual and temporal lords, and those we now usually stile the House of Peers; and that both the legislative and judicial power of our parliaments resided onliy [sic] in them; without any knights, citizens, burgesses of Parliament, or Commons House, not knowne, nor heard of, till of punier times then these. Published, to inform the ignorance, and check the insolent usurpations of those few commoners, who now call themselves not only the Commons House, but Parliament of England; and (as much as in them lies) have most unjustly excluded both our King and lords from being any Members, or branches of our late, or future Parliaments. / By William Prynne of Swainswick, Esquire.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 85 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91183</idno>
+            <idno type="STC">Wing P3957</idno>
+            <idno type="STC">Thomason E569_23</idno>
+            <idno type="STC">ESTC R203232</idno>
+            <idno type="EEBO-CITATION">99863266</idno>
+            <idno type="PROQUEST">99863266</idno>
+            <idno type="VID">115456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115456)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E569[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first part of an historical collection of the ancient Parliaments of England, from the yeer of our Lord 673, till the end of King John's reign, anno 1216. Wherein is cleerly demonstrated by histories and records beyond contradiction, that the ancient parliaments, and great councels of England, during all this tract of time, and many yeers after, were constituted, and consisted onely of our kings, princes, dukes, earls, nobles, barons, spiritual and temporal lords, and those we now usually stile the House of Peers; and that both the legislative and judicial power of our parliaments resided onliy [sic] in them; without any knights, citizens, burgesses of Parliament, or Commons House, not knowne, nor heard of, till of punier times then these. Published, to inform the ignorance, and check the insolent usurpations of those few commoners, who now call themselves not only the Commons House, but Parliament of England; and (as much as in them lies) have most unjustly excluded both our King and lords from being any Members, or branches of our late, or future Parliaments. / By William Prynne of Swainswick, Esquire.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Hodges,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>No more published.</note>
+                  <note>Annotation on Thomason copy: "Aug. 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain. --  Parliament --  History --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  House of Lords --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115456:1"/>
+            <p>
+               <hi>THE FIRST PART</hi>
+OF AN
+HISTORICAL COLLECTION
+OF THE
+ANCIENT PARLIAMENTS
+OF ENGLAND,
+From the yeer of our LORD 673, till the end
+of King <hi>JOHN</hi>'s Reign, <hi>Anno</hi> 1216.</p>
+            <p>
+               <hi>Wherein is cleerly demonſtrated by</hi> Hiſtories <hi>and</hi> Records
+<hi>beyond contradiction,</hi> That
+<hi>The Ancient Parliaments,</hi> and <hi>Great Councels</hi> of
+England, during all this tract of time, and many yeers
+after, were conſtituted, and conſiſted onely of our KINGS,
+PRINCES, DUKES, EARLS, NOBLES, BARONS, SPIRI<g ref="char:EOLhyphen"/>TUAL
+and TEMPORAL LORDS, and thoſe we now uſually
+ſtile THE HOUSE OF PEERS; and that both the LEGIS<g ref="char:EOLhyphen"/>LATIVE
+and JUDICIAL POWER OF OUR
+PARLIAMENTS reſided ONLIY IN THEM;
+without any <hi>Knights, Citizens, Burgeſſes</hi> of Parlia<g ref="char:EOLhyphen"/>ment,
+or COMMONS HOUSE, not
+knowne, nor <hi>heard</hi> of, till of
+punier times then theſe.</p>
+            <p>
+               <hi>Publiſhed,</hi>
+To inform the <hi>Ignorance,</hi> and check the <hi>inſolent Uſur<g ref="char:EOLhyphen"/>pations</hi>
+of thoſe FEW COMMONERS, who now call them<g ref="char:EOLhyphen"/>ſelves
+not only THE COMMONS HOUSE, But PARLIAMENT
+of <hi>England;</hi> and (as much as in them lies) have moſt unjuſtly
+excluded both our KING and LORDS from being any
+MEMBERS, or BRANCHES OF OUR
+LATE, OR FUTURE
+PARLIAMENTS.</p>
+            <p>By <hi>WILLIAM PRYNNE</hi> of Swainſwick, Eſquire.</p>
+            <q>
+               <bibl>
+                  <hi>Pro.</hi> 22. 28.</bibl> Remove not the ancient Land-mark which thy Fathers have ſet.</q>
+            <q>
+               <bibl>
+                  <hi>Grat. Cauſ. 27. Quaeſt.</hi>
+               </bibl> 2. Etiam quod habuit emittat, qui quod non accepit, uſurpat.</q>
+            <p>LONDON, Printed for <hi>Robert Hodges.</hi> 1649</p>
+         </div>
+      </front>
+      <body>
+         <div type="history">
+            <pb facs="tcp:115456:2"/>
+            <pb n="3" facs="tcp:115456:2"/>
+            <head>THE FIRST PART
+OF AN
+Hiſtoricall Collection of the ancient
+PARLIAMENTS of ENGLAND.</head>
+            <p>THe <hi>groſſe Ignorance</hi> of the <hi>ancient conſtitution</hi> of our
+<hi>Engliſh Parliaments,</hi> and <hi>fanatick dream of A Supreme
+Parliamentary and abſolute Legiſlative Authority</hi> in
+THE HOUSE OF COMMONS ALONE,
+(yea, in a meer REMNANT of it, after its diſſolution by
+the Kings beheading) firſt broached by <hi>Lilburn, Overton,</hi> and
+their <hi>Levelling party,</hi> who firſt ſuffered under, and now moſt
+inveigh againſt that USURPED, EXORBITANT POWER;
+being, in my apprehenſion, (next to Gods wrath for our ſins)
+the principal ground-work of all the late unparalleld, inſolent
+(that I ſay not <hi>monſtrous</hi> and <hi>brutiſh) proceedings,</hi> againſt the
+late and preſent <hi>King,</hi> the <hi>Houſe of Peers,</hi> and <hi>ſecluded Majori<g ref="char:EOLhyphen"/>ty</hi>
+of the late <hi>Commons Houſe,</hi> by the <hi>Army,</hi> and thoſe who now
+preſume to entitle themſelves THE PARLIAMENT OF
+ENGLAND, and by pretext thereof obtrude what <hi>Acts</hi> and
+<hi>Taxes</hi> they pleaſe upon the people, to <hi>enſlave</hi> them to their new
+erected SOVERAIGN TYRANNY, to the hazard of our
+<hi>Kingdoms,</hi> and of <hi>Parliaments</hi> themſelves; I conceived, I could
+not do a more acceptable ſervice to <hi>God,</hi> the <hi>Kingdom,</hi> or this
+new INSANUM PARLIAMENTUM of NOVICES
+IN PARLIAMENTARY AFFAIRS, (to reduce them to their
+<hi>right wits</hi> again (being more then BEDLAM MAD, as their
+<hi>Acts</hi> and <hi>Actions</hi> teſtifie) then to ſpend ſome <hi>vacant Hours</hi> in
+gathering into one or two ſmall <hi>Bundles</hi> the ſcattered <hi>Hiſtories</hi>
+and <hi>Records</hi> of our <hi>ancienteſt Parliaments</hi> and <hi>Great Councels,</hi>
+(which are <hi>ſtrangers</hi> and unknown to moſt) to inſtruct their <hi>Ig<g ref="char:EOLhyphen"/>norance,</hi>
+               <pb n="4" facs="tcp:115456:3"/>
+check their <hi>Arrogance,</hi> rectifie their <hi>preſumptuous Ex<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bitances,</hi>
+and reſtore our Parliaments to their ancient conſtitu<g ref="char:EOLhyphen"/>tion,
+ſplendor, honour, limits, and preſerve them from utter
+abolition for the future, through the <hi>over-ſwelling Greatneſſe,</hi>
+and <hi>unſufferable <g ref="char:V">Ʋ</g>ſurpations</hi> upon <hi>King, Lords, Commons</hi> and
+<hi>Kingdom</hi> by thoſe now ſitting and acting alone, beyond and a<g ref="char:EOLhyphen"/>gainſt
+all Parliamentary precedents in former ages, to the aſto<g ref="char:EOLhyphen"/>niſhment
+of the preſent, and wonder of ſucceeding times.</p>
+            <p>It is a rule in the Canon Law,<note n="a" place="margin">Gratian <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auſ 11. Quaſt. 2.</note> 
+               <hi>Privilegium meretur a<g ref="char:EOLhyphen"/>mit<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere,
+qui abutitur poteſtate;</hi> yea, a <hi>Canon</hi> in Gods own ſa<g ref="char:EOLhyphen"/>cred
+Law,<note n="b" place="margin">P<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o. 16. 18. Dan. 4. 37.</note> 
+               <hi>Pride goeth before deſtruction, and an haughty ſpi<g ref="char:EOLhyphen"/>rit
+before a fall:</hi> and not ſo only; but it is commonly the <hi>cauſe,</hi>
+as well as the <hi>fore-runner</hi> thereof: The Scripture Canon aſſu<g ref="char:EOLhyphen"/>ring
+us, <hi>That a mans pride ſhall bring him low,</hi> Prov. 29. 23. Iſa.
+13. 11.<note n="c" place="margin">Gen 3. 5.</note> 
+               <hi>Adam's</hi> and <hi>Eve</hi>'s aſpiring <hi>pride,</hi> to become <hi>as Gods
+knowing good and evil,</hi> degraded them below the primitive
+<hi>condition of man, wherein they were created,</hi> and made them like
+to the<note n="d" place="margin">
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſal. 49 12. 20.</note> very beaſts that periſh: The<note n="e" place="margin">1 Tim. 3. 6. 2 Pet. 2. 4. Iſa. 14. 11, 12, 13, 14.</note> 
+               <hi>ambitious Angels</hi> aſpi<g ref="char:EOLhyphen"/>ring
+to <hi>be Gods,</hi> tumbled them down from heaven, and meta<g ref="char:EOLhyphen"/>morphoſed
+them into Divels:<note n="f" place="margin">Dan. 4. 29. to 35.</note> 
+               <hi>Nebuchad<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>zar</hi>'s over-ween<g ref="char:EOLhyphen"/>ing
+pride <hi>turned him out of his Royall Throne and pallace, to graſe
+among beaſts:</hi> And King<note n="g" place="margin">Acts 12. 22, 23.</note> 
+               <hi>Herod</hi>'s bare acceptance of this
+ſlattering applauſe, <hi>The voice of a God, and not of a man,</hi> made
+him, by the <hi>hand of divine Vengeance,</hi> a preſent prey to the vi<g ref="char:EOLhyphen"/>leſt
+worms, who <hi>eat him up alive.</hi> But to come neerer home.
+What overthrew and deſtroyed the late be headed <hi>King, Straf<g ref="char:EOLhyphen"/>ford,
+Canterbury?</hi> what ſuppreſſed, aboliſhed the<note n="h" place="margin">See the Acts for their ſuppreſ<g ref="char:EOLhyphen"/>ſio<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 17. <hi>Caroli.</hi>
+               </note> 
+               <hi>Star<g ref="char:EOLhyphen"/>chamber,
+High-Commiſſion, Councel-Table,</hi> and our <hi>Prelates</hi>
+with their <hi>Courts,</hi> but their <hi>encroaching, uſurping, exerciſing of
+an exorbitant, illegall, over-ſwelling, tranſcendent power and ju<g ref="char:EOLhyphen"/>riſdiction,
+above, againſt, and beyond the rules and bounds of
+Law?</hi> And what abated the <hi>Authority, Honour, Eſteem,</hi> and
+<hi>reall Power</hi> of the late <hi>two Houſes of Parliament,</hi> and rendred
+them vile and deſpicable in the peoples eyes and affections, but
+their ſurpaſſing the bounds of their ancient Parliamentary pri<g ref="char:EOLhyphen"/>viledges
+and Authority, to the grievance of the people? Which
+being ſo far exceeded in all kinds and degrees, by ſome late
+<hi>Commons</hi> now ſitting, ſtiling themſelves, <hi>The Parliament,</hi> and
+<pb n="5" facs="tcp:115456:3"/>
+               <hi>Supreme Authority of England,</hi> and acting more arbitrari<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and
+tyrannically in all things, then ever any Kings or Parliaments in
+former ages, to the inſufferable injury and oppreſſion both of
+the King, Kingdom, People, and all ſorts and profeſſions of
+men, will in concluſion thereby inevitably occaſion their own
+ſpeedy downfall, and irrecoverable perdition, and (without
+Gods great mercy) ruine all our future Parliaments at leaſt
+wiſe much eclipſe their <hi>Honour</hi> and <hi>Eſteem,</hi> and much abridge
+the Commons former power and Juriſdiction, by bringing all
+their encroached Authority, unto a legall ſcrutiny and debate;
+which abſolute neceſſity enforces men to, for their own and the
+Kingdoms common preſervation; and engaged me principally
+upon this <hi>Hiſtoricall Collection of the ancient Parliaments of
+England,</hi> to abate the <hi>ſwelling Tympany,</hi> and c<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re (if poſſible)
+the <hi>exorbitant diſtempers,</hi> and dangerous <hi>Inſolencies</hi> of the <hi>Le<g ref="char:EOLhyphen"/>velling</hi>
+ſitting <hi>Commons,</hi> who have neither precept not prece<g ref="char:EOLhyphen"/>dent,
+Law nor Canon, nor the leaſt ſhadow of authority from
+God or Man, King or people, or any reall priviledges or conſti<g ref="char:EOLhyphen"/>tution
+of our Parliaments to juſtifie their late proceedings in the
+leaſt degree.</p>
+            <p>The Method I obſerve in marſhalling theſe <hi>Collections,</hi> is only
+<hi>Chronologicall,</hi> according to their reſpective Antiquities, begin<g ref="char:EOLhyphen"/>ning
+with the Reigns of <hi>Eaſewin</hi> and <hi>Kentwin, Anno Domini</hi>
+673. and ending with <hi>King John<g ref="char:punc">▪</g> Anno</hi> 1216; containing in
+all, the ſpace of 543 years; during which large proportion of
+time (and many yeers after) our Parliaments were conſtituted
+and made up onely of our <hi>Kings, Princes,</hi> Du<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, Earls, No<g ref="char:EOLhyphen"/>bles,
+BARONS, <hi>Spirituall and Temporall Lords,</hi> and thoſe who
+in later ages we ſtile the <hi>HO<g ref="char:V">Ʋ</g>SE OF PEERS,</hi> without any
+<hi>Knights of Shires, Citizens, Burgeſſes</hi> elected by the people as
+their Repreſentatives, or any Houſe of Commons, not known,
+nor heard of in theſe elder times, though thoſe who now ſtile
+themſelves the <hi>Commons,</hi> endeavour to caſhier both <hi>King</hi> and
+<hi>Lords</hi> from being Members of our Parliaments, contrary to our
+<hi>Laws, Statutes, Oathes,</hi> and <hi>ſolemn League and Covenant,</hi> and
+the practice of all former ages; at whoſe Doors and Barr them<g ref="char:EOLhyphen"/>ſelves
+have waited, and ſtood bare upon all occaſions, till within
+theſe few months, as their profeſſed Superiours, and the onely
+<pb n="6" facs="tcp:115456:4"/>
+Judges in Parliament, being but ſo many <hi>Grand-jurie</hi> men to pre<g ref="char:EOLhyphen"/>ſent
+the Kingdomes grievances to their Superiour Tribunall and
+crave their redreſſe and cenſure of them: A ſufficient refutati<g ref="char:EOLhyphen"/>on
+of their preſent uſurpation over them.</p>
+            <p>But to proceed to the intended Subject without any further
+Prologue.</p>
+            <p>
+               <note n="a" place="margin">Mat. Weſt. An. 673. p. 236. Edit. Lon<g ref="char:EOLhyphen"/>dini 1570. Florent. Wi<g ref="char:EOLhyphen"/>gornienſis An. 673.</note> 
+               <hi>An. Dom.</hi> 673. <hi>Theodor.</hi> Archbiſh. of <hi>Canterbury</hi> aſſembled
+a Parliamentary Councel at <hi>Hertfort, praeſentibus</hi> EPISCOPIS
+ANGLIAE AC REGIBUS (<hi>Eaſewin</hi> and <hi>Kentwin</hi>) &amp; MAG<g ref="char:EOLhyphen"/>NATIBUS
+UNIVERSIS, all the Biſhops of <hi>England,</hi> and the
+Kings, and all the Nobles <hi>being preſent;</hi> but not any Knight<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,
+Citizens, Burgeſſes, or Commons that we read of.</p>
+            <p>
+               <note n="b" place="margin">Spelmanni Concil. tom. 1. p. 189, 191.</note> 
+               <hi>An.</hi> 694. there was <hi>Magnum Concilium,</hi> a great Councel
+(or Parliament) held at <hi>Becanceld,</hi> in which <hi>Withred</hi> King of
+<hi>Kent</hi> ſate Preſident, <hi>nec non Bertuvaldo</hi> reverendiſſimo Archie<g ref="char:EOLhyphen"/>piſcopo
+Brittanniae, ſimulque Tobia, <hi>Epiſcopo Roffenſis Eccleſiae,
+caeterisque Abbatibus, Abbaticis, Presbyteris, Diatonibus,</hi> DU<g ref="char:EOLhyphen"/>CIBUS,
+SATRAPIS <hi>in unum glomeratis; pariter tractan<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es,
+anxiè examinantes, de ſtatu Eccleſiarum Dei,</hi> &amp;c. But we finde
+no Knights nor Burgeſſes preſent among them.</p>
+            <p>
+               <note n="c" place="margin">Ant. Ec<g ref="char:EOLhyphen"/>cleſ. Brit. p 20.</note> 
+               <hi>An.</hi> 710. (or neer that yeer) there was a Councell held at
+<hi>W<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ceſter</hi> by Pope <hi>Conſtantines</hi> advice, at the deſire of <hi>Egwin</hi>
+Biſhop of <hi>Worceſter, non Religioſorum modo, ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d etiam</hi> REGNI
+PROCERUM; but without any Commons.</p>
+            <p>
+               <note n="d" place="margin">Wil. Mal<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esb de Geſtis Aug. Pontif l. 1 p. 197. Ant. Ec<g ref="char:EOLhyphen"/>cleſ Brit. p. 11. Spelman Con<g ref="char:EOLhyphen"/>cil. p. 242. 245.</note> 
+               <hi>An. Dom.</hi> 747. in the <hi>Councel</hi> of <hi>Clyff</hi> there were preſent,
+beſides the <hi>Biſhops</hi> and many Prieſts and Eccleſiaſtical Perſons,
+<hi>Aethelbaldus</hi> King of <hi>Mercians</hi> cum OMNIBUS REGNI SUI
+PRINCIPIBUS &amp; DUCIBUS; but not one Knight or Bur<g ref="char:EOLhyphen"/>geſſe
+mentioned by Hiſtorians.</p>
+            <p>
+               <note n="e" place="margin">Spelman. Concil. tom. 1. p. 291. 293. 300. Magde<g ref="char:EOLhyphen"/>burgenſ. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent. 8 c. c. 9. col. 575.</note> 
+               <hi>An.</hi> 787. in the Councel of <hi>Colchuth,</hi> conſiſting of two
+Seſſions; the Firſt, <hi>coram Alfwold<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Northumby<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>brorum</hi> RE<g ref="char:EOLhyphen"/>GE,
+&amp; MAGNATIBUS SUIS; <hi>aſſidentibus vero Eanbaldo Ebe<g ref="char:EOLhyphen"/>racenſi
+Archiepiſcop<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, c<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teriſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> illius Provincia Epiſcopi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> The ſe<g ref="char:EOLhyphen"/>cond,
+<hi>Merciorum, coram Offa REGE ibidem, &amp;</hi> SUIS MAGNA<g ref="char:EOLhyphen"/>TIBUS,
+<hi>&amp; jam aſſidentibus Ja<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>berth<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cantuaria Archiepiſcop<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> ca<g ref="char:EOLhyphen"/>terisque
+ſuae Provinc<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ae Epiſcopis;</hi> we meet with none but theſe
+Kings, their Nobles, Archbiſhops and Biſhops preſent. <hi>Conve<g ref="char:EOLhyphen"/>nerunt</hi>
+OMNES PRINCIPES REGIONIS TAM ECCLESI<g ref="char:EOLhyphen"/>ASTICI
+<pb n="7" facs="tcp:115456:4"/>
+QUAM SECULARES, but no Knights nor Burgeſſes
+at all. In this Councell (no other but a a Parliament, to which
+the Kings, Archbiſhops, Biſhops, Abbots, Dukes and Earles, ſub<g ref="char:EOLhyphen"/>ſcribed
+their names) cap. 12. <hi>De Ordinatione &amp; honore regum;</hi>
+there is this notable Canon againſt killing and putting Kings to
+death. <hi>In necem Regis, nemo communicare andeat, quia Chriſtus
+Domini eſt: &amp; ſi quis tali ſceleri adhaeſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit, ſi Epiſcopus eſt, aut
+ullus ex Sacerdotate gradu, ex ipſo detruiatur, &amp; à ſancta haeredi<g ref="char:EOLhyphen"/>tate
+dejiciatur, ſicut Iudas ab Apoſtolic<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gradu dejectus eſt: &amp; omnis
+quiſquis tali ſacrilegio aſſenſerit, aeterno anathematis vinculo inte<g ref="char:EOLhyphen"/>ribit,
+&amp; Judae traditori ſociatus, ſempiternis cromabitur incendiis, ut
+ſcriptum eſt:</hi> Non ſolum qui faciunt, ſed &amp; qui conſentiunt faci<g ref="char:EOLhyphen"/>entibus,
+judicium Dei non effugiunt. <hi>Durnam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> E<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uchi Aſue<g ref="char:EOLhyphen"/>rum
+Regem interficere cupientes, in patibulum ſuſpenſi ſunt. Ani<g ref="char:EOLhyphen"/>madvertitè
+quid fecerit</hi> David <hi>praefecto, cum es Dominus dixerit,</hi> E<g ref="char:EOLhyphen"/>go
+tradam <hi>Saul</hi> in manus tuas: eum invenit dormientem, <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>hortatus is milite ut occideres eum, dixit,</hi> Abſit à me peccatum
+ut extendammanu<g ref="char:cmbAbbrStroke">̄</g> meam in Chriſtum Domini. <hi>Illum autem mili<g ref="char:EOLhyphen"/>tem
+qui poſt mortem ejus venit ad eum, proteſtans quod ipſe occiderat der at</hi>
+Saul <hi>capite tru<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cavit: &amp; reputatum eſt ei ad juſtitiam, &amp; <gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ini
+ejus poſt <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Exemplis namque apud not ſaepe probatum eſt, quod
+quicunque inter<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cienis Dominorum fuere, in ſpai<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> vitam <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,
+&amp; atroque jure <gap reason="illegible" resp="#TECH" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>erunt.</hi>
+            </p>
+            <p>
+               <note n="f" place="margin">Spelman. Concil. p. 310.</note> 
+               <hi>An. Dom.</hi> 793. King <hi>Offa</hi> held a Councel at <hi>Verelam,</hi> with
+Archbiſhop <hi>Humbert,</hi> his Suffragans, &amp; PRIMATIBUS SUIS
+UNIVERSIS, wherein this King <hi>SVORUM MAGNATVM
+ſane acquieſcens conſilis</hi> preſently took a painfull and coſtly jour<g ref="char:EOLhyphen"/>ney
+to <hi>Rome.</hi>
+            </p>
+            <p>
+               <note n="g" place="margin">Spelman. Concil. p. 313, 314.</note> An. 794. King <hi>Offa</hi> after his return from <hi>Rome</hi> celebrated
+two Councels; the one at <hi>Celchyth,</hi> where <hi>were preſent,</hi> 9. Kings,
+15, Biſhops, and 20. Dukes (but no Houſe of Commons.) The
+other at <hi>Verelam,</hi> conſiſting only of Biſhops and Nobles. <hi>Con<g ref="char:EOLhyphen"/>gregato
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Verelamium EPISCOPORVM &amp; OPTIMA<g ref="char:EOLhyphen"/>TVM
+Concilio.</hi>
+            </p>
+            <p>
+               <note n="h" place="margin">Boniface Mogunt. Epiff. 112. M. <hi>Seldons</hi> Titles of Ho<g ref="char:EOLhyphen"/>nor. part. 2. c. 5. p. 632.</note> About the yeer 796 <hi>Cynewlf</hi> King of <hi>Weſtſax,</hi> held <hi>x Coun<g ref="char:EOLhyphen"/>cel</hi>
+wherein he writes to <hi>Lullus</hi> Biſhop of <hi>Ment<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> touching mat<g ref="char:EOLhyphen"/>ters
+of Religion, <hi>and <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> EPISCOPIS <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, nec <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cater<g ref="char:EOLhyphen"/>vo
+SATRAP AR<g ref="char:V">Ʋ</g>M,</hi> to wit of his lay Dignities.</p>
+            <p>
+               <pb n="8" facs="tcp:115456:5"/>
+               <note n="i" place="margin">Spelman. Concil p 318. 320. Malmesb. de geſtis Re<g ref="char:EOLhyphen"/>gum Angl. l. 1. cap. 4.</note> An. Dom. 800. <hi>Kenulf</hi> King of Mercians called to the
+Councell of Clo<g ref="char:V">Ʋ</g>eſha all the <hi>BISHOPS</hi> of his Kingdome, <hi>D<g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>GES
+&amp; Abbates, &amp; C<g ref="char:V">Ʋ</g> J<g ref="char:V">Ʋ</g>SC<g ref="char:V">Ʋ</g>NQ<g ref="char:V">Ʋ</g>E DIGNITATIS <g ref="char:V">Ʋ</g>I<g ref="char:EOLhyphen"/>ROS,</hi>
+wherein the King <hi>cum EPISCOPIS, D<g ref="char:V">Ʋ</g>CIB<g ref="char:V">Ʋ</g>S, &amp; om<g ref="char:EOLhyphen"/>ni</hi>
+ſub <hi>nostri ditione DIGNITATIS GRAD<g ref="char:V">Ʋ</g>,</hi> writ a Letter
+to Pope <hi>Leo</hi> the 3. about Church affaires therein concluded,
+where there is no mention of any Commons.</p>
+            <p>
+               <note n="k" place="margin">Spelman. Concil p. 328.</note> 
+               <hi>An.</hi> 816. in the <hi>Councel of Celichyth, Wulfred</hi> Archbi<g ref="char:EOLhyphen"/>ſhop,
+with di<g ref="char:V">Ʋ</g>ers other <hi>Biſhops</hi> were preſent, ſo was <hi>Coenulf</hi>
+King of <hi>Mercia cum ſuis PRINCIPIB<g ref="char:V">Ʋ</g>S, D<g ref="char:V">Ʋ</g>CIB<g ref="char:V">Ʋ</g>S, &amp;
+OPTIMATIB<g ref="char:V">Ʋ</g>S,</hi> but not a ſyllable of his Commons, Knights,
+or Burgeſſes preſence.</p>
+            <p>
+               <note n="l" place="margin">Spelman<g ref="char:punc">▪</g> Concil. p. 333. 334.</note> About the year 822. in the <hi>Councel of Clo<g ref="char:V">Ʋ</g>eſh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> wherein
+<hi>Beornulf</hi> King of Mercians ſate Preſident, <hi>Wulfrid</hi> Archbiſhop
+with the reſt of the Biſhops and Abbots <hi>OMNI<g ref="char:V">Ʋ</g>MQ<g ref="char:V">Ʋ</g>E
+DIGNITAI<g ref="char:V">Ʋ</g>M OPTIMATIB<g ref="char:V">Ʋ</g>S, ECCLESIASTICA<g ref="char:EOLhyphen"/>R<g ref="char:V">Ʋ</g>M
+ſcil &amp; SEC<g ref="char:V">Ʋ</g>LARI<g ref="char:V">Ʋ</g>M PERSONAR<g ref="char:V">Ʋ</g>M</hi> were pre<g ref="char:EOLhyphen"/>ſent,
+but no Knights of Counties nor Burgeſſes: And <hi>An. Dom.</hi>
+824. there was another Councel held under the ſame King at
+the ſame place: <hi>Aſſidentibus EPISCOPIS, ABBATIB<g ref="char:V">Ʋ</g>S, &amp;
+PRINCIPIB<g ref="char:V">Ʋ</g>S Merciorum <g ref="char:V">Ʋ</g>NI<g ref="char:V">Ʋ</g>ERSIS:</hi> but no Commons
+for ought appears; the King, Archbiſhop, Biſhops and Dukes
+ſubſcribing their names to the Decrees there made, but no Knight
+nor Burgeſſe.</p>
+            <p>
+               <note n="m" place="margin">Ingulphi Hiſt. p. 855. Spelman Con<g ref="char:EOLhyphen"/>cil. p. 336.</note> An. 823. There was <hi>Concilium Pan-Anglicum,</hi> a Parlia<g ref="char:EOLhyphen"/>ment
+or Councel of all <hi>England</hi> celebrated at <hi>London praeſentibus</hi>
+Egberto REGE Weſt-Saxoniae <hi>&amp; Wethluſis REGE</hi> Merciorum,
+<hi>utroque ARCHIEPISCOPO, caeterisque Angliae Epiſcopis</hi> &amp;
+<hi>MAGNATIBVS,</hi> who ſubſcribed it.</p>
+            <p>
+               <note n="n" place="margin">Spelman Concil. p. 342.</note> An. Dom. 838. I read of <hi>Concilium Pan-Anglicum</hi> a Councel
+or Parliament of all <hi>England</hi> held at <hi>Kingſton,</hi> where King <hi>Egbert</hi>
+and his Son <hi>Ethelwalf</hi> preſided; <hi>una cum Ceal<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tha the Archeipiſcope</hi>
+Doroberniae, <hi>caeterisque Anglia EPISCOPIS &amp; OPTIMA<g ref="char:EOLhyphen"/>TIB<g ref="char:V">Ʋ</g>S:</hi>
+Wherein the <hi>manner of Mallings, which King</hi> Baldre<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+had ſometimes gi<g ref="char:V">Ʋ</g>en to <hi>Chriſt-Church</hi> in <hi>Canterburis,</hi> and after<g ref="char:EOLhyphen"/>wards
+ſubſtracted from it: <hi>Eo-quod MAGNATES <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+donationem illam ratam fore: Et quia ille Rex C<g ref="char:V">Ʋ</g>NCIIS PRIN<g ref="char:EOLhyphen"/>CIPIB<g ref="char:V">Ʋ</g>S
+non placuit, nolu <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> donum ejus per <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+               <pb n="9" facs="tcp:115456:5"/>
+was now again reſetled and confirmed to that Church by King
+<hi>Egbert,</hi> and his Son <hi>A<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>helwolf conſentientibus demum MAGNA<g ref="char:EOLhyphen"/>TIBVS.</hi>
+A clear evidence of the Noble-mens Negative voice
+in Parliaments to hinder the King from diſpoſing any Lands of
+the Crown to pious or other uſes without their conſents in Par<g ref="char:EOLhyphen"/>liament,
+where we finde not a word of the Commons or of their
+aſſent or diſſent in that age.</p>
+            <p>
+               <note n="o" place="margin">Spelman. Concil. p. 344.</note> 
+               <hi>An. Chriſti</hi> 850. There was a <hi>Councel</hi> kept at <hi>Benningdon,
+à PRAELATIS ET PROCERIBVS Regni Merciae</hi> under
+King <hi>Bertulph,</hi> where Lands were ſetled and confirmed on the
+Abbie of <hi>Crowland,</hi> by the King, Biſhops and Nobles, without
+the aſſent or mention of any Commons.</p>
+            <p>
+               <note n="p" place="margin">Spelman Concil. p. 344.</note> 
+               <hi>An. Dom.</hi> 851. There was a <hi>Councel</hi> held at <hi>Kingsbury,</hi>
+under King <hi>Bertulph; praeſentibus <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eolnotho ARCHIEPISCOPO
+Do<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oberniae, caeterisque Regni Merciae EPISCOPIS &amp; MAG<g ref="char:EOLhyphen"/>NATIBVS;</hi>
+(without Knights or Burgeſſes) which ſetled the
+affaires of the Realm, and confirmed this Kings ample Charter
+to the Abbey of <hi>Crowland,</hi> ſubſcribed by the King, Archbiſhop,
+Biſhops, Abbots, Dukes and Earles.</p>
+            <p>
+               <note n="q" place="margin">Malmesh. de Geſtis Re<g ref="char:EOLhyphen"/>gum Angl. l. 2. c. 2. Ingulphi Hiſt. Matth. Weſtm. Anno 854. Wigorni<g ref="char:EOLhyphen"/>enſis An. 855. Spelman Con<g ref="char:EOLhyphen"/>cil. p. 348, 350. <hi>Seld.</hi> Titles of Honor, p 2. cap. 5. ſect. 6. p. 633.</note> 
+               <hi>An.</hi> 855. There was a Parliament or Councel of all
+<hi>England</hi> held at <hi>Wincheſter,</hi> where <hi>Ae<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>helwolf</hi> King of <hi>Weſt-ſex,
+Beorred</hi> King of <hi>Mercia,</hi> and <hi>Edmund</hi> King of <hi>Eaſt ſex</hi> were pre<g ref="char:EOLhyphen"/>ſent,
+together with the Archbiſhops of <hi>Canterbury</hi> and <hi>York, cae<g ref="char:EOLhyphen"/>terisque
+Angliae Epiſcopis &amp; Magnatibus,</hi> wherein King <hi>Aethel<g ref="char:EOLhyphen"/>wolf,
+omnium PRAELATORVM AC PRINCIPVM SVO<g ref="char:EOLhyphen"/>RVM
+gratuito conſilio:</hi> (without any Knights or Burgeſſes
+there expreſſed) gave the <hi>tithes of all the lands and goods within
+his Dominions to God and the Church,</hi> there ſtiled, <hi>Concilium ſa<g ref="char:EOLhyphen"/>labre,</hi>
+which hath continued ever ſince in force till now.</p>
+            <p>About the yeer of our Lord 930.<note n="*" place="margin">Wil Malm<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. de Geſt. Reg. Angl. l. 2. c. 6. p. 52.</note> King <hi>Aethelſtan</hi> by his Char<g ref="char:EOLhyphen"/>ters
+gave divers lands to the <hi>Abbey of Malmsbury,</hi> in one where<g ref="char:EOLhyphen"/>of
+there was this Subſcription or Poſtſcript, <hi>S<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iant Sapicutes Re<g ref="char:EOLhyphen"/>gionis
+noſtrae, no<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ha<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ha<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> prata<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s terras me injuſte rapuiſſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, rapinam
+Deo d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>diſſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ſed ſic <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> accepi</hi> QUEMADMODUM JUDICA<g ref="char:EOLhyphen"/>VERUNT
+OMNES OPTIMA<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ES REGNI ANGLORUM,
+to wit in a full Parliament, which then conſiſted only of the
+King, and all the <hi>Nobl<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of England,</hi> (as theſe words inſinuate)
+who adjudged theſe <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be the Kings and not <hi>Elfreds;</hi> which
+<pb n="10" facs="tcp:115456:6"/>
+               <hi>E<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fred</hi> forwearing himſelf before the A<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tar of Saint <hi>Peter</hi> at
+<hi>Rome</hi> in the preſence of Pope <hi>John,</hi> and there falling down dead
+as ſoon as he had forſworn himſelf, and dying within three daies
+after; the Pope thereupon ſent to King <hi>Ethelſtu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> to adviſe him
+what he ſhould doe with his body, and whether he ſhould be
+buried with other Chriſtians? Whereupon <hi>OPTIMATES
+REGIONIS NOSTRAE</hi> humbly deſired of the King, that he
+might have Chriſtian buriall, which he aſſented to; the <hi>Nobles
+only</hi> being then the only great Councel of the Kingdom, aſſem<g ref="char:EOLhyphen"/>bled
+(it ſeems) upon this occaſion to adviſe the King what An<g ref="char:EOLhyphen"/>ſwer
+to return to the Pope concerning <hi>Elfreds</hi> but all, whoſe
+lands they then adjudged to be forfeited to the King for his
+Treaſon againſt him in his life time, in <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndeavouring to diſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> it
+him of his Crown, and to impriſon and put out his eyes.</hi>
+            </p>
+            <p>
+               <note n="*" place="margin">Wil. Malmsb. de Geſt. Reg. Angl. l. 2. c. 7. p. 53, 54.</note> 
+               <hi>Anno Dom.</hi> 944. Indict. 1. King <hi>Edmond</hi> granted <hi>many large
+Liberties,</hi> and the Mannor of <hi>Gl<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtenbury</hi> to the Abble thereof,
+by his Charter (made it ſeems in Parliament as moſt of ſuch
+Charters were) which begin<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thus: <hi>In nomine Domini,</hi> &amp;c. <hi>Ego
+Edmundus Rex Anglorum <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> que Gentium gubernat<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+Rector, CVM CONSILIO ET CONSENSV OPTIMA<g ref="char:EOLhyphen"/>TVM
+MEORVM, conced<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Eccleſiae Sanctae D<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i Gini<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+Muriae Glaſtoniae<g ref="char:punc">▪</g>
+               </hi> &amp;c. A clear evidence that the Nobles in
+that age were the Kings great Counſell and Parliament with<g ref="char:EOLhyphen"/>out
+any Knights, Citizens or Burgeſſes; of which we finde no
+mention in Charters or Storie.</p>
+            <p>
+               <note n="r" place="margin">Ingulphi Hiſtor. p. 874. Spelman. Con<g ref="char:EOLhyphen"/>cil. page 428. Mr. <hi>Seldeno</hi> Ti<g ref="char:EOLhyphen"/>tles of Honor, part. 2. ch. 5. p. 633.</note> 
+               <hi>An.</hi> 948. There was a Parliament or Councel held at
+<hi>London</hi> under King <hi>Ed<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d,</hi> on the Feaſt of the Nativity of the
+Virgin <hi>Mary, cum univerſi</hi> MAGNATES REGNI <hi>per Reg<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m
+Edictum ſummoniti tam Archiopiſcopi &amp; Epiſcopi &amp; A<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ites,
+quàm caeteri totius Regni</hi> PROCERES ET OPTIMATES <hi>Lon<g ref="char:EOLhyphen"/>doni
+conveniſſent, ad tractandum de<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>go<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is publicis <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>egni,</hi>
+Where we read of no Knights, Citizens or Burgeſſes, bu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only
+of Archbiſhops, Biſhops, Abbots, and all the Nobility of the
+Land ſummoned to this famous Parliament, to conſult of the
+publike affaires of the whole Kingdome.</p>
+            <p>
+               <hi>Anno</hi> 965. (ſo <hi>Malmsbury,</hi>
+               <note place="margin">Malmsb<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> de Geſt<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Reg. Angl. l. 2. cap. 8 p 56, 57.</note> or 970. So <hi>Spelman</hi>) King <hi>Edgar</hi>
+called a Councel at <hi>London,</hi> where himſelf, his Mother, <hi>Cli<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> his
+Succeſſor,<note place="margin">(<hi>t</hi>)Spelman. Concil. p. 483.</note> the King of <hi>Scot<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> the Admirall <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, both the
+<pb n="11" facs="tcp:115456:6"/>
+Archbiſhops, <hi>cateriq<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Epiſcopis, &amp; <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Prop<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bus
+were preſent, and ſubſcribed his Charter therein granted to
+the Abbey of <hi>Glaſtenbury,</hi> COMMUNI EPISCOPO<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>UM, A<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ATUM,
+PRIMORUM QU<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> CONSI<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>O GENERALI, AS<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>INSU
+PONTI<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ICUM, A<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>BATUM, OPTIMATUM <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>;
+&amp; CONCI<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>O OMNIUM PRIMATUM <gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ORUM,
+without any Commons preſent, or mentioned to be there.</p>
+            <p>
+               <note n="t" place="margin">Spelman Concil. p. 490.</note> 
+               <hi>An.</hi> 975. King <hi>Edgar</hi> and his Queen, <hi>Elf<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us</hi> Prince of
+<hi>M<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ia, <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Duke of the <hi>Eaſt-<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gles, Elfwol<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> his kinſman,
+Archbiſhop <hi>Dunſtan cum caeteris Epiſcopis, Abbatibus, Brick<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tho</hi>
+COMITE cum NOBILITATE TOTIUS R<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>GNI
+held a Councel at <hi>Winchester</hi> without any Commons.</p>
+            <p>
+               <note n="u" place="margin">Huntingdon Hiſt. l. 5. p. 357 Matth. Weſt. An. 755. <hi>uſque</hi> 1002.</note> 
+               <hi>An.</hi> 977. in the <hi>Counc<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> of <hi>Cal<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> under King <hi>Edward</hi>
+OMNES ANGLORUM OPTIMATES were preſent toge<g ref="char:EOLhyphen"/>ther
+with the Biſhops and Clergy (but no Knights and Burgeſſes
+for ought is recorded) where the floor ſinking under them,
+all but <hi>Danſtan</hi> fell down ſome of them being grievouſly hurt,
+others ſlain, upon which <hi>Henry Huntind<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> makes this memora<g ref="char:EOLhyphen"/>ble
+Obſervation applicable to our times. <hi>Signum ſcilicet Dei
+excelſi fuit, quod Proditione &amp; Interfection<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Regis ſui ab amore
+Dei caſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri aſſent, <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> diverſis Gentibus digna contrition<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> conter <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+For King <hi>Ed<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard</hi> being ſoon after <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lain, <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Gentis
+ſua p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſida,</hi> who, <hi>i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ici<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ias, qu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> viventi ingeſſ<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ant, <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+protelantes, ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lier<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine Regis <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> apud War<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, ut ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cut
+vitam Regis extinxorant, it<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amen ejus extinguer<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>. Hi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+verò comp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtum eſt, contra divina<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> providenti<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> non <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pra<g ref="char:EOLhyphen"/>vu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+cor <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>inis &amp; inſ<gap reason="illegible" resp="#TECH" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>abile. Quam enim <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.
+Deus coelo glori<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>è ſuſc<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pit, &amp; memoria <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+Dominu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>jus <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Pr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tores <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bnubil<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. In<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+Domin<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> i<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rum <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> prov<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>catus eſt, &amp; plus <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> irritat<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+g<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſi<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>extricabile conferre cogita<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Et quod fa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re
+paraverat non diſtulit, <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> multis parlib<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> &amp;
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Anglia<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quaſi <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bes c<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eli,</hi> &amp;c. till they had miſerably
+ſpoiled, enſlaved and conquered the Kingdom; and what par<g ref="char:EOLhyphen"/>ticular
+judgements befell the cheife Authors of his murther,
+you may read in<note n="x" place="margin">Anno 978. 979.</note> 
+               <hi>Matth. Weſtminſter</hi> and others. God of his
+infinite mercy now prevent the like Nationall judgement upon
+us, for the like perſ<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ious <hi>practice</hi> and <hi>bloodſhed</hi> cowards ou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="10" facs="tcp:115456:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:115456:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:115456:8"/>
+King, againſt our publike faith, O<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ths, Covenants and Engage<g ref="char:EOLhyphen"/>ments.</p>
+            <p>
+               <note n="y" place="margin">Spelman Concil. p. 510, 513, 525, 529.</note> 
+               <hi>Anno Chriſti</hi> 1009. by King <hi>Ethelr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Edict <hi>
+                  <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iverſi Au<g ref="char:EOLhyphen"/>glorum</hi>
+OPTIMATES <hi>di<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſancto Pentecoſtes ad locum ab indig<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nis
+Eanham nominatum, acciti ſunt conveni<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> where they debated
+and decreed many things touching the Reformation of the
+Church and Gods worſhip, and of the Common wealth; which
+Generall Councel Sir <hi>Henry Spelman</hi> aſſures us was no other but
+a Parliament being ſummoned by the Kings Writ, and deter<g ref="char:EOLhyphen"/>mining
+of <hi>State affaires</hi> as well as <hi>Eccleſiaſticall matters.</hi> Ad<g ref="char:EOLhyphen"/>ding,
+that it was the <hi>ancient cuſtome of our Kings, at the Feaſt of
+the Nativity and at Easter to call together</hi> Proceres utriuſque
+ordinis, <hi>the Peers</hi> of both <hi>Orders</hi> (Eccleſiaſticall and Temporal,
+not the Commons) both to adorn their Royall State, <hi>&amp; conſtlia
+regn<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unda</hi> to their Parliaments. So as the Lords Spiritual and
+Temporall in thoſe <hi>ancient times,</hi> were the only Parliament and
+<hi>great Councel of the Kingdome,</hi> without any <hi>Knights</hi> of Shires, or
+<hi>Burgeſſes</hi> of Parliament, not known nor heard of in that and
+former ages for any thing clearly appearing in Hiſtories or Re<g ref="char:EOLhyphen"/>cords.</p>
+            <p>
+               <note n="z" place="margin">Brampton Hiſt. Journall M. S. p. 77, 78. Mr. <hi>Seldens</hi> Titles of Ho<g ref="char:EOLhyphen"/>nor. part. 2. c. 5. p. 634. See William Malmsb. de Geſtis Reg. Angl. l. 2. c. 1. pag. 81, 82.</note> 
+               <hi>Anno</hi> 1052. Earl <hi>Godwin</hi> having had a Triall <hi>CORAM
+PROCERIBVS REGNI,</hi> before the Peers of the Realm
+touching the death of <hi>Alfred</hi> under King <hi>Hardicnut,</hi> and flying
+out of the Realm, and afterwards returning in hope of King <hi>Ed<g ref="char:EOLhyphen"/>ward</hi>
+the Confeſſors favour, he ſollicited the Lords to intercede
+for him to the King, when the Parliament ſate at <hi>London, Rex
+&amp;</hi> OMNES REGNI MAGNATES ad PARLIAMENTUM
+<hi>tunc fuerunt:</hi> The King as ſoon as he ſaw him called him Trai<g ref="char:EOLhyphen"/>tor,
+and appeached him, that he had traiterouſly ſlain his Brother
+<hi>Alfred;</hi> which he denying and putting himſelf upon the conſide<g ref="char:EOLhyphen"/>ration
+(or triall) of the Court, The King thereupon ſaid, <hi>Cla<g ref="char:EOLhyphen"/>riſſimi</hi>
+DOMINI COMITES ET BARONES <hi>t<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rae qui eſtis
+homines mei ligii modo hic congregati, &amp; appellum <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eum, reſpon<g ref="char:EOLhyphen"/>ſumque
+Godwini audiſtis, volo quod inter</hi> NOS <hi>in iſta appellation<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+rectum judicium d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cernatis, &amp; debitum juſtitiam faciatis.</hi> COMI<g ref="char:EOLhyphen"/>TIBUS
+<hi>verò &amp;</hi> BARONIBUS <hi>ſuper hoc ad invic<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m tractanti<g ref="char:EOLhyphen"/>bus,</hi>
+after much debate reſolved to preſent the King with as
+much gold and ſilver as they could carry between their armes to
+<pb n="13" facs="tcp:115456:8"/>
+beg and purchaſe the pardon; which they did: <hi>quorum con<g ref="char:EOLhyphen"/>ſideratione
+Rex contradicere nolens, quicquid J<g ref="char:V">Ʋ</g>DICA<g ref="char:V">Ʋ</g>E<g ref="char:EOLhyphen"/>RANT
+per omne ratifica<g ref="char:V">Ʋ</g>it.</hi>
+            </p>
+            <p>A little before this, there was another Parliament ſummoned
+by the King at<note n="*" place="margin">Wil. Malmeſ. De Geſt. Reg. Angl. l. 2. c. 13. p. 81.</note> 
+               <hi>Gloceſter,</hi> concerning <hi>Godwin: Quocirca TO<g ref="char:EOLhyphen"/>TI<g ref="char:V">Ʋ</g>S
+REGNI PROCERES juſſi Gloceſtriam con<g ref="char:V">Ʋ</g>enire ut
+ibi MAGNO CON<g ref="char:V">Ʋ</g>ENT<g ref="char:V">Ʋ</g> res <g ref="char:V">Ʋ</g>entilaretur. <g ref="char:V">Ʋ</g>enerunt eo
+etiam Northumbri COMITES tunc famoſiſſimi, Sywardus
+&amp; Leofricus OMNISQ<g ref="char:V">Ʋ</g>E ANGLOR<g ref="char:V">Ʋ</g>M NOBILITAS:</hi>
+onely Earl <hi>Godwin</hi> and his Sons, <hi>qui ſe ſuſpectos ſcierant, ſine
+praeſidio armorum <g ref="char:V">Ʋ</g>eniendum non arbitrati,</hi> ſtaid at Burfarſton
+with a ſtrong band of armed men, as <hi>Malmeſbury</hi> relates. So
+as in this age the King, and his Lords and Barons only made up
+the Parliament, without any Knights or Burgeſſes; and the
+Lords had the right of Judicature veſted in them (which diſco<g ref="char:EOLhyphen"/>vers
+<hi>Modus tenendi Parliamentum,</hi> pretended to be compiled
+in this Kings Reign, to be but a forgery.) Theſe 27 Councels
+and Parliaments before <hi>William the Conquerors</hi> Reign (beſides
+others which might he added) being made up and conſiſting
+only of Kings, and their Spirituall and Temporall Lords and
+Nobles, and enacting Laws, Canons for the Reformation and
+Government both of Church and State without any Knights,
+Citizens or Burgeſſes ſummoned to aſſiſt or adviſe with them,
+or concurrent aſſents to ratifie what they enacted or or<g ref="char:EOLhyphen"/>dered.</p>
+            <p>To theſe I ſhall annex ſome pregnant Precedents, both in,
+and ſince the <hi>Conquerours</hi> Reign, or Parliaments conſiſting of
+the King, and his Spirituall and Temporal Lords, and making
+and enacting Lawes and Statutes without the Commons pre<g ref="char:EOLhyphen"/>ſence
+or conſent: ſome few of them now preſuming to arrogate
+to themſelves the ſole power and title of the Parliament in Eng<g ref="char:EOLhyphen"/>land,
+and abſolute Legiſlative power without the King or Lords,
+without and againſt all precedents in former ages.</p>
+            <p>About the year of our Lord 1060 King <hi>Edward the Confeſſor</hi>
+CONSILI O BARONUM <hi>ſuo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, Legem.</hi> 167. annis ſopitam
+excitavit, excitatam reparavit, reparatam decoravit, decoratam
+confirmavit, &amp; confirmata vo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ata eſt Lex, Sancti Regis ED<g ref="char:EOLhyphen"/>WARDI,
+as the Manuſcript Authour of the ancient <hi>Chronicle
+<pb n="14" facs="tcp:115456:9"/>
+of Litchfield</hi> records, and<note n="*" place="margin">Ad Eadme<g ref="char:EOLhyphen"/>merum Notae. p. 171.</note> Mr <hi>Selden</hi> out of him.</p>
+            <p>
+               <note n="a" place="margin">Hoveden. Annal. pars 1. pag. 600. 601. M. <hi>
+                     <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elde<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Ti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es of Honor. par. 2. c. 5. ſect. 20. p. 701. &amp; Notae ad E<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<g ref="char:EOLhyphen"/>merum p. 1<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1. &amp;c. <hi>Spelma<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Concil. p. 619.</note> 
+               <hi>Anno Dom.</hi> 1070. <hi>King William the Firſt</hi> (commonly called
+the <hi>Conquerour) Conſilio BARON<g ref="char:V">Ʋ</g>M S<g ref="char:V">Ʋ</g>OR<g ref="char:V">Ʋ</g>M;</hi> by the
+<hi>counſell of his Barons</hi> (in Parliament) <hi>cauſed</hi> twelve noble and
+wiſe Engliſhmen, skilfull in the Lawes, to be ſummoned out of
+every County, that he might hear their Laws and Cuſtoms from
+them; who meeting, and ſhewing what their Laws and cu<g ref="char:EOLhyphen"/>ſtoms
+were, reduced into writing by <hi>Aldred</hi> Archbiſhop of <hi>York,</hi>
+and <hi>Hugh</hi> Biſhop of <hi>London,</hi> who copied them out with their
+own hands; they were with the ASSENT OF THE SAME
+BARONS, for the moſt part confirmed in that aſſembly, which
+was a <hi>Parliament</hi> at that time.<note n="b" place="margin">Annal. pars Poſt p. 600.</note> 
+               <hi>Hoveden</hi> writing <hi>de Legib<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+Angliae, &amp; ſtatutis Willi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lmi, ſervans poſt Conqueſtum,</hi> hath this
+expreſſion. <hi>Hic intimatur quid Willielmu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Rex Anglorum
+Cum PRINCIPIB<g ref="char:V">Ʋ</g>S S<g ref="char:V">Ʋ</g>IS CONSTIT<g ref="char:V">Ʋ</g>IT, poſt conqui<g ref="char:EOLhyphen"/>ſitio<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em
+Angliae:</hi> And King<note n="c" place="margin">
+                  <hi>Matth. Pa is</hi> in Hen. 1. p. 53. Edit. Tiguri. 1589.</note> 
+               <hi>Henry</hi> the Firſt, in his Laws u<g ref="char:EOLhyphen"/>ſeth
+this expreſſion, <hi>Legem Regis Edwardi <g ref="char:V">Ʋ</g>obis red<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> cum il<g ref="char:EOLhyphen"/>lis
+emendationibus, quibus Pater meus <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> emenda<g ref="char:V">Ʋ</g>it CON<g ref="char:EOLhyphen"/>SILIO
+BARON<g ref="char:V">Ʋ</g>M S<g ref="char:V">Ʋ</g>OR<g ref="char:V">Ʋ</g>M:</hi> a cleer evidence and
+proof, that the King, and his Nobles and Barons alone, were the
+onely Parliament and Legiſlator<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in thoſe dayes; without any
+Knights, Burgeſſes or Commons.</p>
+            <p>
+               <note n="d" place="margin">Wigernienſis <hi>An</hi> 1070 Mat. Paru<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n 10, 5. p 20. Seld. Tit. Hon. <hi>p.</hi> 701.</note> 
+               <hi>An.</hi> 1070. In a Parliament or Councel held at <hi>Pedreda;</hi>
+the controverſie between <hi>Thomas</hi> Archbiſhop of York, and <hi>V<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtan</hi>
+Biſhop of Worceſter touching certain Lands, was deter<g ref="char:EOLhyphen"/>mined
+quietly <hi>in Concilio celebrat<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> coram REGE &amp; Do<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eber<g ref="char:EOLhyphen"/>nenſ.
+atque PRIMATIB<g ref="char:V">Ʋ</g>S TOTI<g ref="char:V">Ʋ</g>S REGNI ADJ<g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>DICANTIB<g ref="char:V">Ʋ</g>S,
+terminata eſt,</hi> as <hi>Wigornienſis</hi> and <hi>Matthew
+Paris</hi> teſtifie.</p>
+            <p>
+               <note n="e" place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>adner. Hiſt. Nov.</hi> l. 1. pag. 9. <hi>Seldmi</hi> Notae ad <hi>Eadme<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> pa. 197. &amp;c. 199. <hi>
+                     <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eld. Tit. of Hon.</hi> p. 702.</note> 
+               <hi>An.</hi> 1071. In the firſt year of King <hi>William</hi> the firſt his
+Reign at <hi>Pinnedene</hi> there was held <hi>PRINCIPVM CON<g ref="char:EOLhyphen"/>VENTVS,</hi>
+an aſſembly of the Nobles (or Parliament) by the
+Kings command, wherein the controverſie between <hi>Laufran<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+arch-Biſhop of <hi>Canterbury,</hi> and <hi>Odo</hi> Earl of <hi>Kent,</hi> concerning
+divers Lands and Manners belonging to the church of Canter<g ref="char:EOLhyphen"/>bury
+was determined: which the King when he heard, com<g ref="char:EOLhyphen"/>mended;
+<hi>Laudans C<g ref="char:V">Ʋ</g>M CONSENS<g ref="char:V">Ʋ</g> OMNI<g ref="char:V">Ʋ</g>M
+PRINCIP<g ref="char:V">Ʋ</g>M S<g ref="char:V">Ʋ</g>OR<g ref="char:V">Ʋ</g>M CONFIRMA<g ref="char:V">Ʋ</g>IT,</hi> &amp;c. The
+<pb n="15" facs="tcp:115456:9"/>
+King, Spirituall and Temporall Lords and Barons (without any
+Knights, Burgeſſes or Commons for ought is recorded in our
+Hiſtories) being then the Parliament, and they the<note n="f" place="margin">
+                  <hi>Seld.</hi> Notae ad <hi>Eadmerum.</hi> p. 190, 191.</note> COM<g ref="char:EOLhyphen"/>MUNE
+CONSILIUM TOTIUS REGNI NOSTRI, men<g ref="char:EOLhyphen"/>tioned
+in his Laws.</p>
+            <p>About the ſame time this King <hi>William</hi> commended and cor<g ref="char:EOLhyphen"/>rected
+the Epiſcopall and <hi>Eccleſiaſticall Law<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Realm,</hi>
+               <note n="g" place="margin">2 <hi>Rich.</hi> 2. membr. 12. nu. 5. <hi>Seld</hi> No<g ref="char:EOLhyphen"/>tae and Eadm. p. 167, 168.</note>
+               <hi>COMM<g ref="char:V">Ʋ</g>NI CONCILIO &amp; conſilio ARCHIE<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ISCO<g ref="char:EOLhyphen"/>R<g ref="char:V">Ʋ</g>M,
+&amp; caeterorum EPISCOPOR<g ref="char:V">Ʋ</g>M &amp; ABBAT<g ref="char:V">Ʋ</g>M &amp;</hi>
+Omnium Principum Regni me<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Judicavit,</hi> as is ma<g ref="char:EOLhyphen"/>nifeſt
+by his Reſcript to <hi>Remigi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> Biſhop of <hi>Lincoln.</hi> And in
+the <hi>Libel</hi> exhibited by the Clergy to King <hi>Edward</hi> the firſt in
+Parliament, there is this Recitall of this act of Reformation:
+<hi>Cum Willi<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>us</hi> dudum Rex Angliae de COMMUNI CON<g ref="char:EOLhyphen"/>CILIO
+ARCHIEP<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>COPORUM, ABBATUM <hi>&amp;</hi> OMNI<g ref="char:EOLhyphen"/>UM
+PROCERUM REGNI SUI, <hi>leges Epiſcop<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, quae non
+benè ne<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſecundum ſanctum canonem praecepiae <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>crant, in <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eg<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o
+Angliae obſervand<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>cuſſe judicaverit;</hi> which manifeſts the
+Parliament and Common Councel in his reign be to the King,
+and the Spirituall and Temporall Lords of the whole Kingdom,
+without any Houſe of Commons at all, divided from or an<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ox<g ref="char:EOLhyphen"/>ed
+with them. In the year book of 21. <hi>Edw.</hi> 3. f. 60. We read
+<hi>that the Abbot of Bury by an Ordin<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the reign of</hi> William <hi>the
+Conquerour, m<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de in Parliament by the King, the Archbiſhop of
+Canterbury,</hi> and BY ALL THE OTHER BISHOPS, EARLS
+<hi>and</hi> BARONS <hi>of the Land, was ex<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pted from all Epiſcopall ju<g ref="char:EOLhyphen"/>risdiction.</hi>
+            </p>
+            <p>And in his<note n="h" place="margin">Selden. No<g ref="char:EOLhyphen"/>tae ad E<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dme<g ref="char:EOLhyphen"/>rum p. 165.</note> Charter to the Abbie of <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atth</hi> (<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de in Par<g ref="char:EOLhyphen"/>liament)
+there is this clauſe: <hi>N<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tum ſit <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>obis, me <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp;
+confirm<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, aſſo<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> La<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>franci Archiepiſcopi <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; Sti<g ref="char:EOLhyphen"/>gandi
+Epiſcopi <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, &amp;</hi> CONCILIO <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tiam</hi> EPISCO<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>O<g ref="char:EOLhyphen"/>RUM
+&amp; BARONUM MEORUM, <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Eccleſia ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncti <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+de Bello</hi> &amp;c. <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ac qui<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tu in perpet<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, &amp;c.</hi>
+So as in his Reign there appeares no evidence for any Knights
+of Shires, or Burgeſſes ſitting or voting in Parliament, but only
+the King and his Lords, Spirituall and Temporall <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>,
+judged and determined all publike affaires.</p>
+            <p>In the ſeventh yeer of King<note n="i" place="margin">
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nov. l. 1 p. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eldon<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, p. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>02.</note> 
+               <hi>William <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> (ann. 1035) at
+<pb n="16" facs="tcp:115456:10"/>
+the inſtance of arch-Biſhop <hi>Anſelm</hi> to end the controverſies be<g ref="char:EOLhyphen"/>tween
+the King and him, there was a Parliament ſummoned at
+<hi>Rochingham</hi> Caſtle, <hi>quatenus</hi> Epiſcopis, Abbatibus Cunctiſ<g ref="char:EOLhyphen"/>que
+Regni Principibus una cocuetibus <hi>communi aſſenſu defi<g ref="char:EOLhyphen"/>ruretur,
+ut<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um ſalvâ reverentiâ &amp; obedientiâ ſedis Apoſtalicae,</hi>
+Anſelmus <hi>poſſit fidem terreno Regi ſervare, annon? Fit itaque
+conventus omnium, &amp;c.</hi> Anſelmus <hi>autem</hi> Epiſcopis, Abbati<g ref="char:EOLhyphen"/>bus
+<hi>&amp;</hi> Principibus <hi>ad ſe à Regio ſecreto vocatis, eos &amp; aſſi<g ref="char:EOLhyphen"/>ſtentem
+Monarcham, &amp;c. numero am multitudinem hâc voce
+alloquitur:</hi> The Biſhops and Proceres Regni did all in this
+great councel.</p>
+            <p>
+               <note n="k" place="margin">Eadmarus Nov. l. 2. p. 38. 39 40.</note> About the ninth yeer of King <hi>William Rufus,</hi> anno 1097,
+in the month of Auguſt, <hi>cum de ſtatu Regni acturus Rex</hi> Epiſ<g ref="char:EOLhyphen"/>copos,
+Abbates, <hi>&amp;</hi> quoſque Regni Proceres <hi>in unum praecepti
+ſui ſanctione egiſſet, &amp; diſpoſitis quae adjurationis illorum cauſae
+fuerant,</hi> writes <hi>Eahmerus; Anſelme</hi> renewed his requeſt to the
+King<g ref="char:punc">▪</g> where <hi>Rex</hi> Epiſcopi <hi>&amp;</hi> Principes, <hi>&amp;</hi> Quique Proceres,
+are brought in as the only Members of, and actors in the Parlia<g ref="char:EOLhyphen"/>ment,
+without any Commons at all.</p>
+            <p>
+               <note n="l" place="margin">M<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tt Paris p. 52, 53. <hi>Seld. Tules of Hon<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> p. 702, 703.</note> Anno Dom. 1100 William Rufus <hi>dying without iſſue, and</hi>
+Robert <hi>his elder brother being abſent,</hi> Henry the Firſt was cho<g ref="char:EOLhyphen"/>ſen
+and crowned King Clero &amp; <hi>Pagnetibus cunctis, by the
+Clergy and all the Nobles,</hi> upon condition that he ſhould willingly
+grant, and by his charter confirm thoſe Liberties and ancient cu<g ref="char:EOLhyphen"/>ſtomes,
+which flouriſhed in the Kingdom in the time of Saint Ed<g ref="char:EOLhyphen"/>ward
+the King: <hi>which he did accordingly, reciting in his Char<g ref="char:EOLhyphen"/>ter;</hi>
+Sciatis, me Dei Miſericordià, &amp; <hi>Communi Conſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>li<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ba<g ref="char:EOLhyphen"/>ronum
+Regni</hi> Regem eſſe coronatum. Foreſtas <hi>Communi Con<g ref="char:EOLhyphen"/>ſilo
+Baronu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eorum</hi> in manu mea retinui, &amp; Legem <hi>Regis
+Edwardi</hi> vobis reddo, cum illis emendationibus quibus Pater meus
+eam emendavit <hi>Conſtl<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Baronum <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uorum:</hi> His teſtibus Ar<g ref="char:EOLhyphen"/>chiepiſcopis,
+Epiſcopis, <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omitibus, Baronibus, Vicecomitt<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bus</hi>
+&amp; <hi>Optimatibus totius Regni</hi> Angliae, quando coronatus
+fui.</p>
+            <p>
+               <note n="m" place="margin">Eadm. Hiſt. Nov l 3. p. 67. Wi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. Malmeſ. de Geſtis Pon. Angliae. l. 1. p. 228. Hoved. Ann l. pa<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s 1, p 469. Matth. Weſtm. Anno 1102. pag. 23. An<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iq Eccleſ. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pag. 104. 10<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eld. Tit. of Hon p 703.</note> 
+               <hi>Ann. Dom.</hi> 1102. in the third year of <hi>King Henry</hi> the
+firſt, there was a Councel held at Weſtminſter. <hi>Huic conven<g ref="char:EOLhyphen"/>tui
+affuerunt Anſelmo Archiepiſcopo petente à Rege</hi> Pr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nates
+Regni; <hi>quatenus quicquid e<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſdem Concilii authoritate decer<g ref="char:EOLhyphen"/>neretur</hi>
+               <pb n="17" facs="tcp:115456:10"/>
+Vtriuſque Ordinis <hi>concordi curâ &amp; ſolicitudine ratum
+ſervaretur,</hi> write <hi>Eadmerus</hi> and <hi>Malmeſbury</hi> in the ſelf-ſame
+words. In this Councel divers canons were made and publiſhed
+Communi Conſenſu Epiſcoporum <hi>&amp;</hi> Abbatum, <hi>&amp;</hi> Princi<g ref="char:EOLhyphen"/>pum
+totius Regni: Principes <hi>Regni ſui</hi> Omnes <hi>tam Eccle<g ref="char:EOLhyphen"/>ſiaſtci,
+quam</hi> Secularis Ordinis, were preſent with the King
+in this Councel, writes <hi>Hoveden.</hi>
+            </p>
+            <p>
+               <note n="n" place="margin">Math. Paris. Hiſt. Angliae p. 59.</note> 
+               <hi>Anno Dom.</hi> 1106. King <hi>Henry the firſt,</hi> Magnetibus <hi>Regni
+ob hoc Londonium Edicto Regio convocatis,</hi> made a flattering
+Speech unto them, promiſing to ratifie King <hi>Edwards</hi> Laws, both
+by his Charter and Oath if they deſired it, ſo as they would aſſiſt
+him againſt his Brother <hi>Robert</hi> and the <hi>Normans,</hi> which they did.</p>
+            <p>
+               <note n="o" place="margin">Math. Paris. p. 60. Eadme<g ref="char:EOLhyphen"/>rus Hiſt. Nov. l. 4. p. 91. Hoveden An<g ref="char:EOLhyphen"/>nal. pars 1. p. 471.</note> 
+               <hi>Anno</hi> 1107. There was another Parliament and Councel
+held at <hi>London</hi> under this King. <hi>Factus eſt Conventus</hi> Epiſco<g ref="char:EOLhyphen"/>porum
+&amp; Abbatum <hi>pariter &amp;</hi> Magnatum (or Procerum
+Regni, as <hi>Eadmerus) Londoniis in Pal<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tio Regis.</hi> Wherein there
+was an accord made between the King and <hi>Anſelm,</hi> touching in<g ref="char:EOLhyphen"/>veſtitures
+of Biſhops, <hi>per concilium Anſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lmi &amp;</hi> Procerum
+Regni. In this Councel <hi>Anſelm, coram</hi> Rege, Regnique E<g ref="char:EOLhyphen"/>piſcopis
+&amp; Principibus exacted obedience and ſubjection from
+<hi>Girald</hi> Archbiſhop of <hi>York.</hi>
+            </p>
+            <p>
+               <note n="p" place="margin">Hoveden. Annal. pars 1. p. 472. Eadmer. Hiſt. Nov. l. 4. p. 94, 95.</note> 
+               <hi>Anno</hi> 1108. to redreſſe the incontinency of Prieſts, <hi>King Hen<g ref="char:EOLhyphen"/>ry</hi>
+the firſt, <hi>adunatis ad curiam ſuam in ſol<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nitate Pentecoſtes a<g ref="char:EOLhyphen"/>pud
+Londonium</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unctis <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orthus Regni, <hi>de negotio cum</hi> An<g ref="char:EOLhyphen"/>ſelmo
+Archiepiſcopo, <hi>&amp; caeter<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Epiſcopis <hi>Angliae tractavit:</hi>
+Divers Laws and Canons were there enacted for this purpoſe,
+which were thus prefaced. <hi>Haec ſu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Statuta de Archdiaeoni<g ref="char:EOLhyphen"/>bus,
+Presbyteris, &amp;c. quae ſtatuerunt</hi> Anſelmus <hi>Cantuarienſis Archi<g ref="char:EOLhyphen"/>epiſcopus,</hi>
+Thomas <hi>Eboracenſis Archiepiſcopus, electus cum eo,</hi>
+Omneſque al<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Epiſcopi Angliae <hi>in praeſentia Glorioſi Regis</hi>
+Henri<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i Aſſenſu Comitum &amp; Baronum ſuorum &amp;c. <hi>Or,</hi> Aſ<g ref="char:EOLhyphen"/>ſenſu
+Omnium Baronum ſuorum, (as <hi>Eadmorus</hi> renders it)
+<hi>Statutum eſt,</hi> &amp;c.</p>
+            <p>
+               <note n="q" place="margin">Eadmerus Hiſt. Nov. l. 5. p 114.</note> 
+               <hi>Anno</hi> 1114. <hi>H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nricus Rex juſſit</hi> Omnes Epiſcopos &amp; Prin<g ref="char:EOLhyphen"/>cipes
+totius Regni <hi>ad curiam ſuam ſub uno venire Itaque ut R<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x
+juſſerat</hi> XVI. <hi>Kal.</hi> Octobris Conventus O <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>apud Weſt<g ref="char:EOLhyphen"/>monaſterium
+in Palatio Regis factus eſt:</hi> Where the Popes Letter
+concerning the Biſhops of <hi>England</hi> was read and debated.</p>
+            <p>
+               <note n="r" place="margin">Hoveden Annal. pars 1. p. 473. Ead<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erus Hiſt. Nov. l. 5. p. 519</note> 
+               <hi>Anno</hi> 1115. XIII. <hi>Kal. Aprilis factus eſt Conven<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> Opiſco<g ref="char:EOLhyphen"/>porum,
+<pb n="18" facs="tcp:115456:11"/>
+porum, Abb<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n &amp; Principum totius Regni ap<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Serberiam,</hi>
+cogente eos illuc Sanctione Regis <hi>H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nrice,</hi> writes <hi>E<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dmerus:</hi>
+Which <hi>Hoveden</hi> thus expreſſeth; <hi>Comites</hi> &amp; Barones toti<g ref="char:EOLhyphen"/>us
+Angliae, <hi>apud</hi> Salesberiam <hi>decimo qu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rto Calendas</hi> Aprilis
+<hi>convenerunt.</hi> In this Parliament the King ſubſtituted his Son
+<hi>William</hi> to ſucceed him as his Heir. <hi>Igi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnita Regis volun<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te,
+mox ad nutum ejus</hi> Omnes Principes <hi>homines ipſius</hi> Wil<g ref="char:EOLhyphen"/>lielmi:
+And in this Parliament the controverſie between <hi>Ralph</hi>
+Archbiſhop of <hi>Canterburi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>Thurſtan</hi> Archbiſhop of <hi>York</hi>
+concerning obedience to the Sea of <hi>Canterburie</hi> was debated and
+<hi>Thurſtan</hi> ordered to ſubmit, whereupon he renounced his Arch<g ref="char:EOLhyphen"/>biſhoprick
+in a Pet.</p>
+            <p>
+               <note n="s" place="margin">E<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dmerus Hiſt Nov. l. 5. p. 118.</note> The ſame yeer in <hi>A<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uſt</hi> following one <hi>Anſelme</hi> came from
+<hi>R<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me</hi> to King <hi>Henrie</hi> the firſt being in <hi>Normandie,</hi> bringing Let<g ref="char:EOLhyphen"/>ters
+from the <hi>Pope</hi> authorizing him to be his Legat in <hi>England,</hi>
+which in a ſhort time being made known in <hi>ENGLAND,</hi>
+Admirats erg<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Epiſcopi, Abb<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes &amp; Nobiles Duique Lon<g ref="char:EOLhyphen"/>doniae
+<hi>adun<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ti ſnut</hi> ſuper his, &amp; quibuſdam a<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s praeſente Re<g ref="char:EOLhyphen"/>gina,
+Communi Concilio tractaturi, where they reſolved to
+prevent this Innovation, and ſent the Archbiſhop of <hi>Canter<g ref="char:EOLhyphen"/>burie</hi>
+to the King to prevent and inhibit this Legats entrance
+into the Kingdom. After which one<note n="t" place="margin">
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>admerus<g ref="char:punc">▪</g> Hiſt Nov l. 6 p 137, 138.</note> 
+               <hi>Peter</hi> obtaining a <hi>Pow<g ref="char:EOLhyphen"/>er
+Legatine</hi> from the Pope over <hi>England</hi> and <hi>Ireland;</hi> this King
+returned him this Anſwer, <hi>Legationis illius ſt<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bilem authorita<g ref="char:EOLhyphen"/>tem,
+non niſi per conniventiam</hi> Epiſcoporum, Abbatum &amp; Pro<g ref="char:EOLhyphen"/>cerum
+<hi>ac totius R<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gni</hi> Co<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ventum roborari poſſe <hi>conſtare<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+Theſe reſpective Preſidents clearly manifeſt that our Parlia<g ref="char:EOLhyphen"/>ments
+and great Councels all his Reign, conſiſted only of the
+King with all the Spirituall and Temporall Lords and Barons
+without any Commons, Knights or Burgeſſes at all, of whom
+we finde no mention.</p>
+            <p>
+               <note n="n" place="margin">Math. Pa<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is. p. 71. Hun<g ref="char:EOLhyphen"/>tindon Hiſt. l. 8. p. 386.</note> 
+               <hi>Anno</hi> 1137. King <hi>Henry</hi> dying leaving, <hi>Maude</hi> the Empreſs
+his right Heir; <hi>Stephen</hi> contrary to his Oath invaded the Crown:
+<hi>Congregatis enim Londoniis</hi> Regni Magnatibus, <hi>meliorationem
+l<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gum promiſit, juxta voluntatem &amp; arbitrium ſingulorum;</hi>
+whereupon OMNES <hi>tam</hi> PRAESULES <hi>quam</hi> COMITES &amp;
+Barones <hi>qui filiae Regis, &amp; ſuis Haeredibus juraverant fideli<g ref="char:EOLhyphen"/>tatem,
+conſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſum Stephano praebuerunt, dicentes fore nimis turpe,
+ſi tot Nobil<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s faeminae ſubderentur,</hi> &amp;c.</p>
+            <p>
+               <pb n="19" facs="tcp:115456:11"/>
+               <note n="x" place="margin">Continua<g ref="char:EOLhyphen"/>tio<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Florent. Wigornienſe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> p. 519.</note> 
+               <hi>Anno</hi> 1138. King <hi>St<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phen</hi> on the fourth of <hi>April,</hi> held a
+Councel at <hi>Northampton<g ref="char:punc">▪</g>
+               </hi> in which the Archbiſhop of <hi>York</hi> ſate
+Preſident, the Prelates, Abbots, Earls, Barons and all the Nobi<g ref="char:EOLhyphen"/>lity
+<hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f</hi> England <hi>being there preſent.</hi>
+            </p>
+            <p>
+               <note n="*" place="margin">Hen. Huntin<g ref="char:EOLhyphen"/>don, hiſt l 8. p. 395.</note> 1150. <hi>T<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cohall</hi> Archbiſhop of <hi>Canterbury</hi> held a Generall
+Councel at <hi>London</hi> in Midlent<g ref="char:punc">▪</g> where King <hi>Stephen</hi> and his ſon
+<hi>Euſtace,</hi> ET ANGLIAE PROCERES <hi>interfuerunt,</hi> and the No<g ref="char:EOLhyphen"/>bles
+of <hi>England</hi> were preſent, but no Commons that we read of.</p>
+            <p>
+               <note n="y" place="margin">Math Weſt. An. 1153. p. 42</note> 
+               <hi>Anno</hi> 1153. King <hi>Stephen</hi> having no Heir but Duke <hi>Henry
+recognovit in</hi> Conventu Epiſcoporum &amp; aliorum Regni Op<g ref="char:EOLhyphen"/>timatum;
+acknowledged in an Aſſembly of the Biſhops and
+other Lords (or Nobles) of the Realm, that <hi>Henry</hi> had an he<g ref="char:EOLhyphen"/>reditary
+right to the Kingdom of <hi>England,</hi> and the Duke peace<g ref="char:EOLhyphen"/>ably
+granted, that <hi>Stephen</hi> ſhould quietly enjoy the Kingdome
+during his life. <hi>Ita tamen confirmatum eſt p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. quod ipſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+Rer &amp; Epiſcopi <hi>tunc praeſentes, cum caet<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> R<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gni Optima<g ref="char:EOLhyphen"/>tibus
+<hi>jurarent, quod Dux Henri<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us poſt mortem Rogis, fi illum ſu<g ref="char:EOLhyphen"/>per
+viveret, r<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gn<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>miſine aliqua contradictione obtineret.</hi>
+            </p>
+            <p>
+               <note n="z" place="margin">Gul. Nubri<g ref="char:EOLhyphen"/>genſis Rerum Angl. l. 1. cap. 32.</note> 
+               <hi>An.</hi> 1154. King <hi>Stephen</hi> about the feaſt of <hi>Michael</hi> the Arch<g ref="char:EOLhyphen"/>angel
+<hi>cum</hi> Epiſcopis &amp; Nobtlibus A<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>glie Conciltum <hi>Londo<g ref="char:EOLhyphen"/>niis
+col h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aturus tum pro Rigni</hi> Negotiis, <hi>tum etiam n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tio va<g ref="char:EOLhyphen"/>cant
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Eccleſiae Fibor<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>conſis;</hi> writes <hi>Nu<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>genſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</hi> By which paſ<g ref="char:EOLhyphen"/>ſages
+it is evident that the Parliaments of his Reign conſIted
+only of the King, Biſhops, and other Spirituall and Temporal
+Lords, without any Commons for ought appeares by Storie.</p>
+            <p>
+               <note n="a" place="margin">Math. Paris. Hiſt p. 96, 97.</note> An. Dom. 1164. King <hi>Henry</hi> the Second held a Parliament
+at <hi>C<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arendon,</hi> wherein <hi>John <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Oxoni<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſate Preſident, is <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Regi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> etiam</hi> M<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chiepiſtop<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>,
+Prloribus, Comitibus, B<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>onibus &amp; <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+Regnie where there <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Recognition made of a certain part
+of the Cuſtomes and Liberties of his Anceſtors, to wit, of <hi>Hen<g ref="char:EOLhyphen"/>ry</hi>
+his grandfather and others, which ought to be obſerved in the
+Kingdom, <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by all, by real<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the diſſentions and
+diſcords often hapning betw<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en the Clergy, and the Pemporall
+Juſtices and great men of the Kingdome. Among theſe Cu<g ref="char:EOLhyphen"/>ſtomes
+this is one; <hi>Aro<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>piſcopi, Epiſco<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, &amp; univerſae perſon<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+Regni qui do Rege<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra<gap reason="illegible" resp="#TECH" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> peſſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſiones <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> &amp; Re<g ref="char:EOLhyphen"/>gis,
+&amp; <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. intur &amp; fa<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ano owner conſur<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>di<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es Reg<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+               <pb n="20" facs="tcp:115456:12"/>
+CAETERI BARONES DEBENT <hi>intereſſe</hi> JUDICIIS CU<g ref="char:EOLhyphen"/>RIAE
+CUM BARONI BUS <hi>quouſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pervematur ad deminutionem
+membrorum, vel ad mortem.</hi> This Recognition the Archbiſhops,
+Biſhops, Abbots, Priors, Clergy, tum Comitibus, Baronibus,
+<hi>&amp;</hi> Proceribus Cundis, with all the Earls, Barons and No<g ref="char:EOLhyphen"/>bles
+ſwore unto, and firmly promiſed in the word of truth <hi>vi<g ref="char:EOLhyphen"/>va
+voce</hi> to keep and obſerve to the King their Soveraign, and
+to his Heires <hi>bona fide,</hi> and without male eng<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n for ever. So
+<hi>Math. Paris</hi> informes us<note n="b" place="margin">An. 1164 And Antiq. Eccl. Brit. pag. 122.</note> 
+               <hi>Math. Weſtminſter</hi> thus briefly ex<g ref="char:EOLhyphen"/>preſſeth
+it. <hi>Apud Claredonum coram Rege &amp;</hi> Magnatibus
+Regni <hi>f<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cta</hi> eſt recordatio Regnorum Libertatum <hi>&amp; conſuetudi<g ref="char:EOLhyphen"/>num.</hi>
+               <note n="c" place="margin">Annal pars poſterior. p 490.</note> 
+               <hi>Hoveden</hi> thus records it. <hi>Eodem Anno R<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x</hi> Magno
+Congregato Concilio, <hi>&amp; omnibus Archiepiſcopi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; Epiſcopis
+Angliae, coram illo congregatis, retiit</hi> &amp;c. The Commons for
+ought appeares, were no Members of this Parliament.</p>
+            <p>
+               <hi>Anno</hi> 1165. There was a Parliament held at <hi>Nonthampton</hi>
+Caſtle, wherein as <hi>William Fitz Stephens,</hi> and<note n="d" place="margin">Titles of Honor. part. 2. c. 5 ſect 2<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. p. 705.</note> Mr. <hi>Selden</hi>
+out of him; <hi>Secunda die conſul<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntibus</hi> Epiſcopis, Comitibus
+&amp; Baronibus Anglir Omnibus, Archbiſhop <hi>Becket</hi> was ac<g ref="char:EOLhyphen"/>cuſed
+of Treaſon, and thereupon the King demanded judgement
+againſt him. All of them accorded, that for his contempt in not
+coming upon the Kings ſummons, and ſending no excuſe, all his
+goods and moveables ſhould be at the Kings mercy. Whereupon
+there grew a difference between the Biſhops and Barons, which
+of them ſhould pronounce the ſentence againſt him, the Barons
+excuſing themſelves and putting it off to the Biſhops, and the
+Biſhops putting it off from themſelves to the Barons. Where<g ref="char:EOLhyphen"/>upon
+the King moved with the controverſie about pronouncing
+the ſentence, thereupon the contoverſie ceaſed, and <hi>Henry de
+Bloyes</hi> Biſhop of <hi>Wincheſter,</hi> was at laſt enjoyned to doe it, and
+pronounced it againſt his will.</p>
+            <p>
+               <note n="e" place="margin">Hoveden Annal. pars poſter p. 561. to 566 Math. Patis p. 127.</note> 
+               <hi>Anno</hi> 1176. There was <hi>Concil. generale,</hi> a Parliament, or Ge<g ref="char:EOLhyphen"/>nerall
+Aſſembly of all the Biſhops, Abbots, Priors, Earles,
+and Barons of <hi>England</hi> held at <hi>Weſtminſter,</hi> for the determi<g ref="char:EOLhyphen"/>nation
+of the great contention between <hi>Alfonſo</hi> King of <hi>Ca<g ref="char:EOLhyphen"/>ſtile,</hi>
+and <hi>Sancho</hi> King of <hi>Navarre,</hi> touching divers Caſtles and
+Territories in <hi>Spain,</hi> ſubmitted to the determination of our King
+<hi>Henry</hi> the ſecond, who all meeting together, their Advocates
+being fully heard <hi>in praſentia noſtra, &amp; EPISCOPOR<g ref="char:V">Ʋ</g>M</hi> &amp;
+<pb n="21" facs="tcp:115456:12"/>
+               <hi>COMIT<g ref="char:V">Ʋ</g>M &amp; BARON<g ref="char:V">Ʋ</g>M NOSTROR<g ref="char:V">Ʋ</g>M,</hi> King
+<hi>Henry</hi> the ſecond, <hi>habito cum EPISCOPIS, COMITIB<g ref="char:V">Ʋ</g>S, &amp;
+BARONIB<g ref="char:V">Ʋ</g>S NOSTRIS cum Del<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>beratione conſilio,</hi> did ac<g ref="char:EOLhyphen"/>cordingly
+determine it: <hi>COMITES &amp; BARONES Regalis
+Curiae Angliae ADJ<g ref="char:V">Ʋ</g>DICAVER<g ref="char:V">Ʋ</g>NT Blevariam, urrique par<g ref="char:EOLhyphen"/>ti
+ſupra dictorum, quae in jure petita ſu rant fieri reſtitutionem,</hi>
+writes <hi>Hoveden,</hi> whoſe judgement the King ratified by his
+Charter under the great Seal of <hi>England.</hi>
+            </p>
+            <p>
+               <note n="f" place="margin">Hoveden Annal pars poſterior p. 556.</note> 
+               <hi>Anno</hi> 1173. <hi>Lewis</hi> King of <hi>France, cum Archiepiſcopis, Epiſ<g ref="char:EOLhyphen"/>copis,
+Comitibus &amp; Baronibus Regni ſui,</hi> bringing with them our
+King, <hi>Henry</hi> the 2<hi rend="sup">d</hi>. his 3. ſons, and <hi>Henry</hi> their Father, King of
+<hi>England, cum</hi> Archiepiſcopis, Epiſcopis, Comitibus, &amp; Baro<g ref="char:EOLhyphen"/>nibus
+<hi>terra ſuae,</hi> met between <hi>Giſort</hi> and <hi>Trie</hi> on the ſeventh
+of <hi>October,</hi> and there treated of an accord between the King of
+<hi>England,</hi> and <hi>Henry</hi> his ſon.</p>
+            <p>
+               <note n="g" place="margin">Hoveden Annal. pars poſter. p. 544.</note> 
+               <hi>Anno</hi> 1175. King <hi>Henry</hi> the ſecond, and the King his Son
+went to <hi>Yorke,</hi> where they met <hi>William</hi> King of Scots and <hi>Da<g ref="char:EOLhyphen"/>vid</hi>
+his brother, with almoſt all the Biſhops, Abbots and great
+men of their Kingdomes, where the agreement made between
+the King of <hi>Scots</hi> and King <hi>Henry</hi> the Father was read and con<g ref="char:EOLhyphen"/>firmed
+before the King his Son, <hi>Roger</hi> Archbiſhop of <hi>Yorke,
+Hugh</hi> Biſhop of <hi>Durham,</hi> &amp; Comitibus &amp; Baronibus Angliae,
+<hi>&amp; coram Epiſcopis &amp; Abbatibus,</hi> Comitibus <hi>&amp;</hi> Baronibus
+Regni Scotiae <hi>in Eccleſia ſancti</hi> Petri Eboraci. So as the Kings,
+Biſhops, Abbots, Earles and Barons of <hi>England</hi> and <hi>Scotland</hi> too,
+(without any conjunction or mixture of Knights and Burgeſſes)
+were the only Parliaments to conclude peace or war, or enact
+Laws in this Kings reign.</p>
+            <p>
+               <note n="h" place="margin">Hoved. An<g ref="char:EOLhyphen"/>nal pars po<g ref="char:EOLhyphen"/>ſter. p. 546. Antiq. Eccleſ. Brit. p. 94, 95.</note> The ſame yeer 1175. King <hi>Henry</hi> the ſecond, Magnum
+Congregavit Concilium <hi>apud Windeſhores in octavis S. Michae<g ref="char:EOLhyphen"/>lis,
+praeſentibus &amp; Rege filio Richardo Cant.</hi> Archie<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſc. <hi>&amp;</hi> Epiſcopis
+Angliae, <hi>&amp; coram</hi> Laurentio <hi>Dublinenſi</hi> Archiepiſc. <hi>praſentibus eti<g ref="char:EOLhyphen"/>am</hi>
+Comitibus <hi>&amp;</hi> Baronib<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Angliae:</hi> In which Councel the Ca<g ref="char:EOLhyphen"/>tholike
+Archbiſhop of <hi>Tuaman</hi> and <hi>Cantoris</hi> Abbot of S. <hi>Bran<g ref="char:EOLhyphen"/>don,</hi>
+and Maſter <hi>Laurence</hi> Chancellor of <hi>Roderic</hi> King of <hi>Conact,</hi>
+made a finall concord with King <hi>Henry</hi> the Father on the be<g ref="char:EOLhyphen"/>half
+of <hi>Roderit</hi> King of <hi>Conact,</hi> recorded at large by <hi>Hoveden:</hi>
+At this great Parliament upon this occaſion, we read of none
+<pb n="22" facs="tcp:115456:13"/>
+but the King Archbiſhops, Biſhops, Earles and Barons of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+to be p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſent, not any one Knight of a Shire, or Burgeſſe.</p>
+            <p>
+               <note n="i" place="margin">H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>den Ann<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pars poſt. p. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Anno</hi> 1176. King <hi>Henry</hi> the ſecond held a Parliament or
+<hi>Concil<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um mog<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um</hi> at <hi>Notting<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am, de S<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tutis Reg<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i ſui, &amp; co<g ref="char:EOLhyphen"/>ram
+R<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>filio ſuo, &amp; coram</hi> Archiepiſcopo Epiſcopis, Comitibus
+<hi>&amp;</hi> Baronibus Regni ſui Communi omnium Concilio <hi>d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſit
+Regnum ſuum in ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x part<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s; per quarum ſingulas, tres juſticiarios
+itinerantes conſt<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tuii;</hi> After which, he records the Juſtices names,
+and the Counties allotted to each of their diviſions; by which
+teſtimony it is moſt evident, that the King and the Spirituall and
+Temporall Lords and Barons were the only members of Parlia<g ref="char:EOLhyphen"/>ment
+in this Kings rai<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and did order and make Laws for the
+whole Kingdome without the Commons, of which there is no
+mention in any Parliament or Councel in this Kings life, that I
+can finde; nor in<note n="*" place="margin">Annal. pars p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt. p. 653.</note> 
+               <hi>A<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o</hi> 1189, when there was a peace conclu<g ref="char:EOLhyphen"/>ded
+between King <hi>Henry</hi> the ſecond and <hi>Philip</hi> of <hi>Fr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> thus
+expreſſed by <hi>Hov<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>den. Convenerunt igitur prae<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cti <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ex Franciae,
+&amp; R<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x A<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ae &amp; Richard<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> comes Brittannicorum, cum</hi> Archi<g ref="char:EOLhyphen"/>epiſcopis,
+Epiſcopis, Comitibus <hi>&amp;</hi> Baronibus ſuis, <hi>circa fe<g ref="char:EOLhyphen"/>ſtum
+Apoſtolo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um Petri &amp; Pauli ad co<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oqutum inter Turonem &amp;
+Araſ.</hi> &amp;c.</p>
+            <p>
+               <note n="k" place="margin">Hove<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en. Annal. p. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> poſt. p. 5<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6. <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> p 94, 95.</note> 
+               <hi>Anno Dom.</hi> 1189. King <hi>Richard</hi> the firſt after the death of
+King <hi>Henry</hi> the ſecond, on the third day of <hi>S<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ptember</hi> was crow<g ref="char:EOLhyphen"/>ned
+at <hi>W<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtminst<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> by <hi>B<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ldwin</hi> Archbiſhop of <hi>C<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nterbury,</hi> di<g ref="char:EOLhyphen"/>vers
+other <hi>Archbiſhops, Biſhops, Abbots, Priors</hi> and the EARLS
+<hi>and</hi> BARONS <hi>of England,</hi> being aſſembled together at <hi>London,</hi>
+and preſent at it, <hi>quorum conſilio,</hi> by whoſe advice he was crow<g ref="char:EOLhyphen"/>ned.
+That ſame year <hi>Philip</hi> King of <hi>France</hi> ſent Embaſſadors
+to King <hi>Ri<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hard</hi> of <hi>England</hi> to acquaint him, that the King of
+<hi>France</hi> in a General Councel at <hi>Paris,</hi> and <hi>all his Nobles</hi> had
+ſworn upon the holy Evangeliſts, that God willing they would
+immutably be at <hi>Vizels</hi> by the end of <hi>Easter</hi> in their voyage to<g ref="char:EOLhyphen"/>wards
+the Holy Land, deſiring that he and his Earls and Barons
+would do the like &amp; meet him there at that time. <hi>Hinc factum eſt
+quod Richardus Rex Angl. &amp;</hi> Conutes &amp; Barones ſui, <hi>qui crucem
+ſuſcepe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unt</hi> in generall Concilo <hi>apud Londonias, juraverunt tacti<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+Sacro-ſanctis Evangeliis,</hi> &amp;c. to meet them there at the time
+appointed; and both the King of <hi>Fr<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> his Embaſſadors and
+<pb n="23" facs="tcp:115456:13"/>
+others on the behalf of the King of <hi>England, juraverunt</hi> in
+eodem Concilo &amp;c. <hi>&amp; mifit inde Chartam ſuam Regi Fran<g ref="char:EOLhyphen"/>cia.</hi>
+            </p>
+            <p>
+               <note n="l" place="margin">Hoved. An<g ref="char:EOLhyphen"/>nal. pars po<g ref="char:EOLhyphen"/>ſter. p 735.</note> 
+               <hi>Anno</hi> 1194. During the captivity of <hi>Richard</hi> the firſt, a
+little before his releaſe and return into <hi>England, John</hi> his bro<g ref="char:EOLhyphen"/>ther
+endeavouring to uſurp the Kingdom from him, ſent one
+<hi>Adam</hi> a Clergy-man into <hi>England</hi> with Letters, to fortifie all
+his caſtles againſt the King his brother; who was apprehended
+together with his Letters by the Mayor of <hi>London,</hi> who deliver<g ref="char:EOLhyphen"/>ed
+all his Letters to <hi>Hubert</hi> Archbiſhop of <hi>Canterbury, Qui in
+craſtino convocatis coram to</hi> Epiſcopis, Comitibus <hi>&amp;</hi> Baroni<g ref="char:EOLhyphen"/>bus
+Regni, <hi>oſtendit eu literas Comitis</hi> Johannis, <hi>&amp; earum teno<g ref="char:EOLhyphen"/>rem:
+&amp; ſtatim</hi> per commune Conclitum Regni de<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>initum eſt,
+<hi>quod Comes</hi> Johannes <hi>diſſaiſiretur de omnibus tenement<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuis in
+Anglia, &amp; ut Caſtella ſua obſiderentur: &amp; ita factum eſt,</hi>
+writes <hi>Hoveden.</hi>
+            </p>
+            <p>
+               <note n="m" place="margin">Mat. Weſt. an. 1194. p 68. Mat. Paris. p. 169.</note> 
+               <hi>Ann.</hi> 1194 King <hi>Richard</hi> the firſt, <hi>Concilio</hi> Procerum
+ſuorum, by the advice of his Nobles, was crowned the ſecond
+time at <hi>Wincheſter,</hi> though with ſome reluctancy.<note n="n" place="margin">Hoved. An. pars poſterior. p. 736 737.</note> On the
+3<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. day of March 1195, he celebrated <hi>primum</hi> Conſilii ſui Di<g ref="char:EOLhyphen"/>e<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n,
+<hi>the firſt day of his Parliament at Nottingham;</hi> at which
+Queen <hi>Elenor</hi> his Mother, both the Archbiſhops (one of them
+ſitting at the Kings right hand, the other at his left) and ſundry
+Biſhops and Earles (named by <hi>Hoveden</hi>) were preſent. On
+the 31 day of March, the ſecond day of the Parliament, the
+King demanded judgment againſt <hi>Earl John</hi> his brother, who
+againſt his fidelity ſworn to him, had ſeiſed and waſted his <hi>Ca<g ref="char:EOLhyphen"/>ſtles</hi>
+and <hi>Lands</hi> on this ſide and beyond the Seas, and entered
+into a covenant againſt him with the French King his Enemy.
+He likewiſe demanded judgment againſt <hi>Hugh de Novant</hi> Bi<g ref="char:EOLhyphen"/>ſhop
+of <hi>Coventry,</hi> who being privie to his ſecrets had deſerted
+him, and adhered to the King of <hi>France,</hi> and <hi>Earl John</hi> his E<g ref="char:EOLhyphen"/>nemies,
+plotting all miſchief to the deſtruction of his Kingdom.
+Et judicatum eſt, That <hi>Earl John</hi> and the Biſhop ſhould be
+peremptorily cited, if they appeared not within forty dayes, <hi>nec
+juri ſteterint,</hi> judicarunt, <hi>Comitem Johannem demeruiſſe Reg<g ref="char:EOLhyphen"/>num,
+&amp; Epiſcopum Coventrenſem ſubjacere judicio Epiſcopo<g ref="char:EOLhyphen"/>rum,
+in eo quod ipſe Epiſcopus erat; &amp; judicio Laicorum, in eo
+<pb n="24" facs="tcp:115456:14"/>
+quod ipſe Vicecomes Regis extiterat.</hi> The third day of the Par<g ref="char:EOLhyphen"/>liament
+the King demanded Aids and Taxes, which were grant<g ref="char:EOLhyphen"/>ed.
+The fourth and laſt day of the Parliament, all the Clergy<g ref="char:EOLhyphen"/>men
+and Lay-men that would, made their complaints againſt
+the rapines and exactions of the Archbiſhop of <hi>York;</hi> and <hi>Ge<g ref="char:EOLhyphen"/>rard</hi>
+of <hi>Camvilla</hi> was impeached, <hi>for harbouring and receiving
+Theeves,</hi> and of <hi>Treaſon,</hi> for ayding and adhering to <hi>Earl John
+and the Kings Enemies;</hi> who denyed the Charges: and thoſe
+who <hi>accuſed him, put in ſureties to proſecute, and he ſureties
+to anſwer.</hi> And this day the King appointed when he would be
+crowned: which done, this Parliament ended.</p>
+            <p>
+               <note n="o" place="margin">Hov<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d. p. 7<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1 78<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 784. See pag. 743. 744. 745.</note> 
+               <hi>Anno</hi> 1197. This King made a Law concerning the <hi>aſſi<g ref="char:EOLhyphen"/>zes
+of Meaſures,</hi> and concerning Legall Proceedings and Pleas
+of the Crown and Forreſts: <hi>Haec eſt Aſſiſa Domini Regis, &amp;
+haec ſunt praecepta de Forreſtis ſuis in Anglia facta,</hi> per Aſſen<g ref="char:EOLhyphen"/>ſum
+<hi>&amp;</hi> Confilium <hi>Archiepiſcop. &amp; Epiſc. Abbatum,</hi> Comitum
+<hi>&amp;</hi> Baronum, <hi>&amp;</hi> Militum totius Regniſui, writes <hi>Hoveden:</hi>
+That theſe <hi>Milites</hi> were <hi>Knights</hi> of Shires choſen by Writ, ap<g ref="char:EOLhyphen"/>pears
+not; I conceive them to be rather Barons that were
+Knighted, who were uſually called Knights, as<note n="*" place="margin">Inſt. 1 p. 5. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 11. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 3. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <hi>
+                     <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> B<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cl. 473. M. Seld. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itles of H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, p. 7<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6. 737. 770. 771.</note> Sir <hi>Edward
+Cook</hi> and others write: As for <hi>Burgeſſes</hi> and <hi>Citizens,</hi> there
+is no mention of them; ſo as in King <hi>Richard</hi>'s Reign it is
+evident, that<note n="p" place="margin">Se<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> M. <hi>Seld.</hi> T<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. of Honor. p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. 2. cap. 5. p. 706. 707.</note> our Parliaments were held without any Com<g ref="char:EOLhyphen"/>mons
+or Burgeſſes, by the King and his Spiritual and Temporal
+Lords only; the proceedings in Parliament being ſtill acted by
+and before the <hi>Barons,</hi> as M. <hi>Selden</hi> obſerves.</p>
+            <p>In the firſt yeer of <hi>King John</hi>'s Reign (<hi>Ann.</hi> 11<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9) on the
+ninth of <hi>June</hi> the King came to <hi>London,</hi> where Congregatis
+Angliae Nobilibus, he was crowned by Archbiſhop <hi>Hubert.</hi>
+So<note n="q" place="margin">Ann. 1<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>99. p 76.</note> 
+               <hi>Matthew W<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtminſter; Congregatis itaque in adventu
+ejus</hi> Archiepiſcopis, Epiſcopis, Comitibus <hi>&amp;</hi> Baronibus, <hi>at<g ref="char:EOLhyphen"/>que
+aliis omnibus qui coronationi ejus intereſſe debuerant:</hi> So
+<note n="r" place="margin">H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt Angl. p. 189.</note> 
+               <hi>Matthew Paris:</hi> And that yeer I finde in<note n="s" place="margin">Annil. <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. pa<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 796. 797.</note> 
+               <hi>Hoveden,
+Statuta quaedam Johannis Regis,</hi> beginning thus: <hi>Eodem anno</hi>
+Johannes <hi>Rex</hi> Angliae Statuit, concerning the price of Wines:
+<hi>Sed hoc primum Regis Statutum vix inchoatum, ſtatim eſt ad<g ref="char:EOLhyphen"/>nihilatum,
+quia M<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rcatores hanc Aſſiſam ſuſtinere non pote<g ref="char:EOLhyphen"/>rant.</hi>
+            </p>
+            <p>
+               <pb n="25" facs="tcp:115456:14"/>
+               <note n="t" place="margin">Hoved pars poſter. p. 803.</note> 
+               <hi>Ann. Dom.</hi> 1200. the great controverſie touching the Ba<g ref="char:EOLhyphen"/>rony
+that <hi>William</hi> of <hi>Mowbray</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>laimed againſt <hi>William</hi> of <hi>Stat<g ref="char:EOLhyphen"/>vile,</hi>
+which had long depended in ſuit in the Kings Court, <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an<g ref="char:EOLhyphen"/>dem</hi>
+Conci<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to Regni, <hi>&amp;</hi> Voluntate Regis, <hi>pax &amp; finalis con<g ref="char:EOLhyphen"/>cordia
+facta eſt,</hi> by way of compoſition. It ſeems, there was a
+Parliament held that yeer. and that the King and his Barons
+determined this controverſie touching this Barony in Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <note n="v" place="margin">Mat. Paris. Hiſt. Angliae, pag. 201. Matt. Weſtm. An. 1204. p 80.</note> Anno 1204, <hi>in the fift yeer of King</hi> John'<hi>s Reign,</hi> in cra<g ref="char:EOLhyphen"/>ſtino
+Circumciſionis, convenerunt ad colloquium apud Oxoniam
+<hi>Rex &amp; Magnates Angliae,</hi> ubi conceſſa ſunt Regi auxilia mili<g ref="char:EOLhyphen"/>taria,
+de quolibet ſcuto ſcilicet terrae duae Marcae &amp; dimi<g ref="char:EOLhyphen"/>dia.
+Nec etiam <hi>Epiſcopi</hi> &amp; <hi>Abbates</hi> ſine promiſſione re<g ref="char:EOLhyphen"/>ceſſer<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt.
+<hi>And the ſame yeer there was</hi>
+               <note n="x" place="margin">Rot. Parl. 5. Jo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. Reg. Membr. 1. Num 3. <hi>Seld. Tit. of Hon.</hi> pag. 707.</note> 
+               <hi>Commune Con<g ref="char:EOLhyphen"/>cilium
+Baronum Noſtrorum, at</hi> Wincheſter, <hi>as appears by the
+Rolls of that yeer.</hi>
+            </p>
+            <p>
+               <note n="y" place="margin">Dor Par. 6. Joh R Memb. 2 4 Dorſ. Clauſ. 3. <hi>Seld. Titles of Honor,</hi> par. 2. cap. 5. p. 707.</note> 
+               <hi>Anno</hi> 1205. certain Laws in the ſixth yeer of his Reign,
+were made for the defence of the Kingdom, <hi>communi aſſe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſu
+Archiepiſcoporum,</hi> Epiſcoporum, Comitum &amp; Baronum, <hi>&amp;</hi>
+omnium Fidelium Noſtrorum Angliae: who theſe <hi>Fideles</hi>
+were, appears not; certain it is, they are ſtiled neither Knights,
+Citizens, Burgeſſes, nor Commons; and therefore may be well
+intended of thoſe who adhered to the King againſt his Enemies,
+or others ſpecially ſummoned to aſſiſt the King and Lords<g ref="char:punc">▪</g> as
+the Judges and others now are; or elſe all the Kings privie
+Councel.</p>
+            <p>
+               <hi>The ancienteſt Writ of Summons to Parliament extant on re<g ref="char:EOLhyphen"/>cord
+(as</hi>
+               <note n="z" place="margin">Tit. of Ho<g ref="char:EOLhyphen"/>nor, p. 708. Dorſ Clauſ 6. Joh. R Memb. 3.</note> 
+               <hi>Mr.</hi> Selden <hi>informs us) is in this ſixth yeer of King</hi>
+John <hi>directed to the Biſhop of</hi> Saliſbury; Ma<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>damus vobis,
+Rogantes quatenus omni occaſione &amp; dilatione poſtpoſita, ſicut
+Nos &amp; Honorem Noſtrum diligitis, ad Nos apud London die Do<g ref="char:EOLhyphen"/>minicâ
+proximè ante Aſcentionem Domini Nobiſcum tractat<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ri
+de magnis &amp; arduis <gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gotiis Noſtris, &amp; communi Regni utilita<g ref="char:EOLhyphen"/>te.
+Quia ſuper his quae à Rege Franciae per Nuncios noſtros &amp;
+ſuos Nobis mandata ſunt, undè per Dei Gratiam bonum ſpera<g ref="char:EOLhyphen"/>mus
+provenire, veſtrum expedit habere conſitium &amp; A<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>um
+Magnatum Terrae Nostra<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ad <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> illum &amp; locum
+fecimus con<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocari. Ves etiam ex parte noſtra et veſtra <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="26" facs="tcp:115456:15"/>
+&amp; <hi>Priores</hi> Conventuales totius Diocaeſis citari faciatis, ut Con<g ref="char:EOLhyphen"/>cilio
+praedicto interſint, ſicut diligunt Nos, &amp; Communem Regni
+utilitatem. <hi>By which it is apparent, that the Peers Spiritual
+and Temporal of the Realm were the onely perſons ſummoned
+to</hi> treat with, <hi>and</hi> adviſe the King <hi>as his great</hi> Councel, <hi>and
+the other</hi> fideles <hi>but their aſſiſtants, not any Burgeſſes, Knights
+or Commoners elected by the people.</hi>
+            </p>
+            <p>
+               <note n="a" place="margin">Matt. Paris <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. p. 21<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Ann.</hi> 1209. King <hi>John</hi> requiring Hoſtages of <hi>William de
+Brauſe,</hi> a Nobleman, for his ſidelity, as he had done of others,
+had this anſwer returned to the Meſſengers, <hi>Si ipſum (Regem)
+in aliquo offendi, paratus ſum, &amp; ero, Domino meo &amp; ſine obſedi<g ref="char:EOLhyphen"/>bus
+ſatisfacere, ſecundum judicium Curiae ſuae, &amp;</hi> Baronum
+Parium meorum, <hi>certo mihi aſſignato die &amp; loco.</hi> So that the
+Judgment of Parliament then reſided in the Peers alone, who
+together with the King and Spirituall Lords, made up the Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>
+               <note n="b" place="margin">Matt. Paris p. 225. 230. 231.</note> 
+               <hi>Anno Dom.</hi> 1213, on the 13 day of May, King <hi>John, Pan<g ref="char:EOLhyphen"/>dulph</hi>
+the Popes Legat, <hi>cum</hi> COMITIBUS <hi>&amp;</hi> BARONIBUS,
+aſſembled at <hi>Dover,</hi> and concluded a form of Peace between
+the King and the Pope, there mentioned at large. The ſame
+yeer there was a Parliament held at S. <hi>Albans,</hi> there deſcri<g ref="char:EOLhyphen"/>bed
+by <hi>Matthew Paris. Interfuerunt Concilio apud Sanctum
+Albanum Galfridus filius Petri, &amp; Epiſcopus Winton, cum</hi> Ar<g ref="char:EOLhyphen"/>chiepiſcopo
+<hi>&amp;</hi> Epiſcopis <hi>&amp;</hi> Magnatibus Regni, <hi>ubi cunctis
+pace Regis denunciata, ex ejuſdem Regis parte firmiter prae<g ref="char:EOLhyphen"/>ceptum
+eſt, quatenus Leges</hi> Henrici <hi>avi ſui ab omnibus in Regno
+ſuo cuſtodirentur, &amp; omnes Leges iniquae penitus enervarentur,
+&amp;c.</hi> And the ſame year on the eighth of September there was
+a Conference or Parliament aſſembled at <hi>London,</hi> which he thus
+expreſſeth; <hi>Convenerunt in Civitate Londoniarum apud San<g ref="char:EOLhyphen"/>ctum
+Paulum,</hi> Stephanus Cantuar. Archiepiſcopus, cum Epiſ<g ref="char:EOLhyphen"/>copis,
+Abbatibus, Prioribus, Decanis <hi>&amp;</hi> Baronibus Regni.
+Where the Archbiſhop produced the Charter of King <hi>Henry</hi>
+the Firſt, (of the Liberties of <hi>England</hi>) which he cauſed to be
+read, beginning thus: Henricus <hi>Dei gratiâ</hi> Rex Angliae, <hi>&amp;c.
+Sciatis, me Dei miſericordiâ, &amp;</hi> Communi Concilio Baronium
+Regni Angliae, <hi>ejuſdem</hi> Regni <hi>Regem eſſe</hi> coronatum, <hi>&amp;c.</hi>
+Towards the latter end thereof there is this clauſe; <hi>Legem Re<g ref="char:EOLhyphen"/>gis</hi>
+               <pb n="27" facs="tcp:115456:15"/>
+Edwardi <hi>vobis reddo, cum illis emendationibus, quibus Pater
+meus eam emendavit</hi> Coneflio Baronum ſuorum. When this
+Charter had been read, <hi>&amp;</hi> Baronibus audientibus <hi>intellecta
+fuiſſet:</hi> and underſtood by the Barons that heard it, <hi>they ex<g ref="char:EOLhyphen"/>ceedingly
+rejoyced with great joy, and all of them ſwore in the
+Archbiſhops preſence, that when they ſaw a fit time, they would
+(if need were) fight for their Liberties even unto death.</hi> By
+which paſſages and Charters it appears moſt clearly, that the
+Parliaments of England both in King <hi>William Rufus, King Hen<g ref="char:EOLhyphen"/>ry</hi>
+the Firſt, and <hi>King John</hi>'s Reigns, conſiſted only of the King,
+and Spirituall and Temporall Lords and Barons, without any
+Knights of Shires, Citizens and Burgeſſes elected by the
+people; and that they were the ſole Law-makers in thoſe times.</p>
+            <p>
+               <hi>Anno</hi> 1114. being the fifteenth yeer of <hi>King John</hi>'s Reign,
+this King (writes<note n="c" place="margin">Titles of Honor, part. 2. ch. 5. p. 710.</note> Mr. <hi>Selden</hi>) ſummoned A KINDE OF
+PARLIAMENT to <hi>Oxford,</hi> by this STRANGE WRIT
+of Summons, that for ought that I have ſeen, is without example,
+and ſeems to point to that diſtinction of Tenants by Knights
+ſervice, which I call here BARONES MINORES of that time,
+from the MAJORES<g ref="char:punc">▪</g> or ſuch as were properly BARONS. The
+words of it are,</p>
+            <p>
+               <note n="d" place="margin">Dorſ. Clauſ. 15. Joh. Reg. part. 2. Mem. 7.</note> Rex Vicecomiti Oxon ſalutem: Praecipimus tibi, quod
+OMNES MILITES Ballivae tuae qui ſummoniti fuerunt eſſe
+apud Oxoniani ad NOS, à die Omnium Sanctorum ad 15 dies,
+venire facias <hi>cum Armis ſuis;</hi> Corpora verò <hi>Baronum</hi> ſine Ar<g ref="char:EOLhyphen"/>mis
+ſingulariter: &amp; <hi>Indiſcretos Milites de Comitatu tuo</hi> il<g ref="char:EOLhyphen"/>luc
+venire facies <hi>ad Nos,</hi> ad cundem terminum, <hi>ad loquen<g ref="char:EOLhyphen"/>dum
+Nobiſcum de negotiis Regni Noſtri.</hi> Teſte Meipſo, a<g ref="char:EOLhyphen"/>pud
+Witten. 11. die Novembris.</p>
+            <p>E<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dem modo ſcribitur omnibus Vicecomitibus.</p>
+            <p>This Preſident ſeems to prove that there were Knights of
+Shires ſummoned to Parliaments in King Johns reign.</p>
+            <p>To which I anſwer.</p>
+            <p>Firſt, that it appeares not by any Hiſtorie or Record, that there
+was any Parliament held this yeer by King <hi>John;</hi> and Mr. <hi>Selden</hi>
+calls it not a Parliament ſimply, but only <hi>a kinde of Parliament,</hi>
+or ſomething like it, being in truth rather a <hi>Councel of Warre,</hi>
+then a <hi>Parliament,</hi> as the Writ import<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it being againſt the rules
+<pb n="28" facs="tcp:115456:16"/>
+and<note n="e" place="margin">Cook 4. In<g ref="char:EOLhyphen"/>ſtit. p 15.</note> 
+               <hi>Cuſtom<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> of Parliaments, for men to come armed to it.
+Secondly, The Hiſtorie of that yeare imports, that the King re<g ref="char:EOLhyphen"/>ceived
+a great <hi>overthrow in France</hi> about this time; Upon re<g ref="char:EOLhyphen"/>ceipt
+of the tidings whereof, he was much dejected and uſed this
+Speech to thoſe that ſtood about him,<note n="f" place="margin">Math. Paris. p. 242.</note> 
+               <hi>Since the time I ſubject<g ref="char:EOLhyphen"/>ed
+my ſelf and my Kingdomes to the Church of Rome, alas for grief,
+nothing hath hapned proſperouſly, but all things contrary to me;</hi> and
+therefore it is probable, that this Summons was only of ſuch
+Knights and others, who<note n="g" place="margin">Math. P<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is. p 231. M. <hi>Sel<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ens</hi> Titles of Ho<g ref="char:EOLhyphen"/>nour, p. 71<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> held <hi>by Knights ſervice of him, and
+were bound to aſſiſt him in his warres by their Tenures,</hi> to aid him
+with their Armes and counſell in this diſtreſſe, he having done
+the like before<note n="h" place="margin">Math. Paris. p. 198, 200, 201 204. 224.</note> 
+               <hi>by his Writs, and fined thoſe who diſſerted, or re<g ref="char:EOLhyphen"/>fuſed
+to aſſiſt him in his Warres, two or three times over before this
+yeer,</hi> there being divers Writs and Preſidents of this Nature,
+cited in the late<note n="i" place="margin">Exact Col<g ref="char:EOLhyphen"/>lection p. 850. &amp;c.</note> 
+               <hi>diſcourſes</hi> about the <hi>Commiſſion of Array.</hi>
+Thirdly, The Writ it ſelf manifeſts that this was no ſummons
+to a Parliament. For firſt, <hi>omnes Milites</hi> in the firſt clauſe of the
+Writ formerly ſummoned to appear, and now again with their
+<hi>Armes,</hi> ſeem rather to be Souldiers, or Tenants holding by
+<hi>Knights ſervic<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> then <hi>Knights</hi> by order: And theſe are only
+ſummoned to appear with their <hi>Armes</hi> at <hi>Oxford,</hi> but not to con<g ref="char:EOLhyphen"/>ſult
+or adviſe with the King concerning the affaires of the
+Kingdome, therefore not ſummoned to a Parliament. Second<g ref="char:EOLhyphen"/>ly,
+The Sheriffe is here to ſummon the Barons without Armes,
+to appear only in perſon: If thoſe <hi>Barons</hi> were Barons of Parlia<g ref="char:EOLhyphen"/>ment,
+and ſummoned to a Parliament, there ought to have been
+a<note n="k" place="margin">Cook. Inſt. p 1, 2 &amp;c. Mr. <hi>Sel<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Titles of Ho<g ref="char:EOLhyphen"/>no<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pa<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t 2. c 5. ſect 21 22, 23, 24, 25.</note> 
+               <hi>Writ of Summons directed to every of them in particular,</hi> not
+to the Sheriffe to ſummon them in groſſe, without any writ to
+them, and they much rather then Knights or any others ſhould
+have appeared in armes to aid the King, by reaſon of their te<g ref="char:EOLhyphen"/>nures
+&amp; great revenues. Therefore theſe <hi>Barons</hi> without Arms,
+whoſe bodies only were to appear, I conceive to be ſuch poor
+Tenants, who were either not obliged, or not able to find arms
+of their owne; the word <hi>Baron</hi> being often uſed for a <hi>Tenant;</hi>
+and a married man, whom our Law-Books ſtile BARON;
+and that which perſwades me hereunto is this clauſe in a like
+Writ of this King but two yeers before, when he feared an
+Invaſion from <hi>France,</hi> whereby he commanded all the<note n="l" place="margin">Math. Paris. p. 224.</note> She<g ref="char:EOLhyphen"/>riffs
+<pb n="29" facs="tcp:115456:16"/>
+               <hi>of England to ſummon</hi> by good <hi>Summons,</hi> Comites, Ba<g ref="char:EOLhyphen"/>rones,
+Milites, <hi>&amp; omnes liberos homines &amp; ſervientes, vel qui<g ref="char:EOLhyphen"/>cunqu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+ſint, &amp; de quocunque tencant,</hi> Qui arma habere debent,
+vel arma habere poſſint, <hi>&amp; qui</hi> Homagium nobis <hi>vel</hi> ligan<g ref="char:EOLhyphen"/>tiam
+fecerunt; <hi>quod ſicut Nos &amp; ſeipſos &amp; omnia ſua diligunt,
+ſint apud Doveram ad inſtans clauſum Paſcha, benè parati</hi> Cum
+armis &amp; equis &amp;c. <hi>Et quod nullus rem<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntat</hi> qui arma portare
+poſſit <hi>ſub poena Culvertagii &amp; perpetuae ſervitutis. Et unus quiſ<g ref="char:EOLhyphen"/>que
+ſequatur Dominum ſuum, &amp; qui terram non habent</hi> &amp; AR<g ref="char:EOLhyphen"/>MA
+HABERE POSSINT, <hi>illuc veniant ad capiendum ſolida<g ref="char:EOLhyphen"/>tas
+noſtras;</hi> which writ is an excellent Commentary upon this.
+Thirdly, There are only 4. <hi>diſcrete Knights</hi> (or Souldiers rather)
+of every County ſummoned to come to the King to <hi>conferre
+with him about the affairs of his Kingdome</hi> in the laſt clauſe of
+this Writ, which only ſavours of a ſummons to a kinde of Par<g ref="char:EOLhyphen"/>liament.
+But theſe certainly were no Knights of the Shire for
+a Parliamentary Aſſembly as is evident, 1. By their number,
+4. out of every County, when the Knights for Parliament were
+never but two at moſt for one County, and but one for ſome
+Counties. 2. They were not to be elected by the Free-holders
+and people, but ſummoned only by the Sheriffe himſelf at his
+diſcretion. 3. They are ſummoned only <hi>ad loquendum nobiscum,</hi>
+to ſpeak with the King of the affairs of his Kingdom; not <hi>ad tra<g ref="char:EOLhyphen"/>ctandum
+faciendum &amp; conſentiendu<g ref="char:cmbAbbrStroke">̄</g> his quae tunc ib<g ref="char:punc">▪</g> de communi con<g ref="char:EOLhyphen"/>ſilio
+dicti regni noſtri contigerint ordinari ſuper negotiis antedictis,</hi>
+as Knights of the Shires are in all Writs for their Election.
+4. There is no mention in this Writ of any <hi>Parliamentum no<g ref="char:EOLhyphen"/>ſtrum</hi>
+appointed to be held at <hi>Oxford,</hi> or of any conference or
+treaty to be there held <hi>cum Praelatis, Magnatibus &amp; Proceribus
+Regni noſtri,</hi> nor yet of <hi>Duos Cives de qualibet Civitate;</hi> nor of
+<hi>Duos Burgeſſes de quolibet Burge Com. illius</hi> to be elected, ſum<g ref="char:EOLhyphen"/>moned,
+returned, as in all writs of Election for Knights of Shires
+and Burgeſſes for a Parliament: Therefore this Writ was cer<g ref="char:EOLhyphen"/>tainly
+no ſummons to a Parliament, nor this meeting at <hi>Oxford</hi>
+any Parliament at all, but only a Councell of <hi>Warre</hi> or <hi>State</hi>
+upon a ſpeciall occaſion: and ſo no proof at all of any Knights of
+Shires (much leſſe of Burgeſſes) in the Parliaments of this Kings
+reign; which the next Preſident in his time will unanſwerably
+clear.</p>
+            <p>
+               <pb n="30" facs="tcp:115456:17"/>
+In the 16 yeer of<note n="m" place="margin">Mat Paris. p. 243. to 252.</note> 
+               <hi>King John</hi>'s Reign, <hi>Anno Dom.</hi> 1215.
+<hi>Convenerunt ad colloquendum apud Sanctum Edmundum Co<g ref="char:EOLhyphen"/>mites
+&amp; Barones Angliae:</hi> Where the Charter of King <hi>Hen<g ref="char:EOLhyphen"/>ry</hi>
+the Firſt (containing certain Liberties and Lawes of King
+<hi>Edward,</hi> granted <hi>both to the Church &amp; Magnatibus Regni</hi>)
+was again produced: which read, they all ſwore upon the high
+Altar in S. <hi>Edmonds</hi> Church, that <hi>if the King refuſed to grant
+the ſaid Laws and Liberties, they would wage warre with him,
+and withdraw their Allegeance from him, till he did by his Char<g ref="char:EOLhyphen"/>ter
+under his Great Seal, confirm all things which they requeſt<g ref="char:EOLhyphen"/>ed;
+reſolving all to repair to the King after the Nativity of our
+Lord, to get thoſe Liberties confirmed.</hi> Whereupon, after
+<hi>Chriſtmaſs, Anno</hi> 1216. in the ſeventeenth yeer of this Kings
+Reign, they repaired to the King to <hi>London,</hi> requiring him <hi>to
+confirm theſe Laws and Liberties:</hi> the King deferred them till
+after <hi>Eaſter,</hi> promiſing them to ſatisfie them in all things; At
+laſt, after ſome encounters, and caſtles taken by the <hi>Barons,</hi>
+who had raiſed a very great Army againſt the <hi>King, REX &amp;
+MAGNATES,</hi> the <hi>King</hi> and his <hi>Nobles</hi> came to a Treaty;
+the 15 day of <hi>June</hi> in a Meadow betwixt <hi>Staines</hi> and <hi>Windſore;</hi>
+where he granted and confirmed them ſuch a <hi>Charter</hi> of their
+<hi>Lawes</hi> and <hi>Liberties</hi> as was deſired: In which <hi>Charter</hi> there
+is this clauſe concerning Parliaments and Summons to them, and
+<hi>for Aids and Aſſeſſements,</hi>
+               <note n="n" place="margin">Math. Paris. p. 247. Seldens Titles of Honor, p. 709.</note> 
+               <hi>&amp; ad habendum COMM<g ref="char:V">Ʋ</g>NE
+CONSILI<g ref="char:V">Ʋ</g>M REGNI de Auxiliis aſſidendis niſi in tribus
+caſibus praedictis; &amp;</hi> De Scrutagiis Aſſidendis <hi>ſummoneri
+faciemus</hi> Archiepiſcopos, Abbates, Comites <hi>&amp;</hi> Majores Baro<g ref="char:EOLhyphen"/>nes
+Sigillatim <hi>per Literas noſtras; &amp; praeterea faciemus ſum<g ref="char:EOLhyphen"/>moneri
+per Vicecomites &amp; Ballivos noſtros omnes alios qui in Ca<g ref="char:EOLhyphen"/>pite
+tenent de Nobis ad certum diem, ſcilicet ad terminum qua<g ref="char:EOLhyphen"/>draginta
+dierum ad minus, &amp; ad certum locum, in omnibus Li<g ref="char:EOLhyphen"/>teris
+ſubmonitionis illius, cauſam ſubmonitionis illius exponen<g ref="char:EOLhyphen"/>tibus,
+&amp; ſic factà ſubmonitione, negotium praecedat ad diem aſ<g ref="char:EOLhyphen"/>ſignatum,
+ſecundum conſilium eorum qui praeſentes fuerint, quam<g ref="char:EOLhyphen"/>vis
+non omnes ſubmoniti venerint.</hi> By which clauſe I conceive
+it evident; that in <hi>King John</hi>'s reign, none but <hi>Biſhops, Abbots,
+Earls,</hi> great <hi>Barons</hi> and leſſer <hi>Barons,</hi> who held Lands of the
+<hi>King in Capite,</hi> were ſummoned to our <hi>Parliaments;</hi> who were
+<pb n="31" facs="tcp:115456:17"/>
+to be all ſummoned of right, and none of them omitted or ſe<g ref="char:EOLhyphen"/>cluded:
+But for any <hi>Knights, Citizens</hi> or <hi>Burgeſſes</hi> then ſum<g ref="char:EOLhyphen"/>moned
+or ſent unto our <hi>Parliaments</hi> by any Writs of Election,
+or of any <hi>Houſe</hi> or <hi>Parliament of Commons,</hi> I finde no proof, nor
+example in any Hiſtory or Record.</p>
+            <p>I ſhould now proceed to prove, that in all <hi>King Henry</hi> the
+Third his Reign, at leaſt till 49. <hi>Henry</hi> 3. if not in ſome ages
+after, our Engli<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h <hi>Parliaments</hi> were compoſed only of the <hi>King,
+Lords Spiritual and Temporal, and Peers and Barons of the
+Realm;</hi> and that after the Commons were firſt ſummoned and
+admitted to our Parliaments in the Reign of <hi>Edward</hi> the Firſt,
+and made an Houſe in <hi>Edward</hi> the Third his Reign, the <hi>Legiſ<g ref="char:EOLhyphen"/>lative
+Power</hi> for divers Kings Reigns, and the ordinary <hi>Judi<g ref="char:EOLhyphen"/>cial
+power or Judi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atory of our Parliaments</hi> till this very day
+reſided and continued in the <hi>King and Houſe of Peers;</hi> But the
+precedents of this nature, and proofs to evidence it, being large
+and numerous, I muſt reſerve them for a ſecond part, and an<g ref="char:EOLhyphen"/>other
+particular Tract, which (if God ſend liberty and oppor<g ref="char:EOLhyphen"/>tunity)
+I intend to compile and publiſh; this being already
+ſwoln to a juſt vendible proportion in theſe neceſſitous times;
+and ſomething of this nature having been already publiſhed by
+me in my <hi>Plea for the Lords,</hi> my <hi>Ardua Regni,</hi> and <hi>Legal vin<g ref="char:EOLhyphen"/>dication
+of the Liberties of England againſt Illegall Taxes</hi> and
+pretended <hi>Acts of Parliament,</hi> p. 5. 6. (which they who deſire
+preſent ſatisfaction may peruſe) its ſpeedy publication may be
+the better reſpited till a fitter ſeaſon.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
